@@ -20,8 +20,8 @@ If your assistant cannot download from GitHub, download the kit yourself (below)
 
 ## Download
 
-- **The kit:** the [latest release](https://github.com/leckwallnut/ae-humanities-coworker-kit/releases/latest) has `AE Humanities - Coworker Kit v1.1.zip`. The green **Code → Download ZIP** button on this page gives the same files.
-- **Optional extras:** the same release page has `AE Humanities - Coworker Kit v1.1 - Extras.zip`, with the original PNGs and the visual guide PDFs. The skill does not need them.
+- **The kit:** the [latest release](https://github.com/leckwallnut/ae-humanities-coworker-kit/releases/latest) has `AE-Humanities-Coworker-Kit-v1.1.zip`. The green **Code → Download ZIP** button on this page gives the same files.
+- **Optional extras:** the same release page has `AE-Humanities-Coworker-Kit-v1.1-Extras.zip`, with the original PNGs and the visual guide PDFs. The skill does not need them.
 
 GitHub can be slow or unreliable on some networks. If a download stalls, ask the person who sent you this link for the ZIP file.
 

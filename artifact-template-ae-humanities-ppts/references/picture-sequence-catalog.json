@@ -1,0 +1,309 @@
+{
+  "collection": "AE Humanities picture sequences for storytelling",
+  "generatedDate": "2026-10-27",
+  "source": "Built-in image_gen, with prior frames supplied as continuity references",
+  "aiGenerated": true,
+  "assetCount": 12,
+  "sequenceCount": 4,
+  "frameOrder": "A, B, C is a suggested narrative order. Motives and missing events are open to interpretation.",
+  "assets": [
+    {
+      "id": 82,
+      "sequence": "station",
+      "frame": "A",
+      "file": "82-station-a.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/82-station-a.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "45e040240d2289f68355f298bd4fce60d82ee243683a6e383facfeae6cc4a81b",
+      "altText": "A woman wears a burgundy scarf; a suitcase rests on the bench. Illustrated scene; At the station.",
+      "visibleEvidence": "A woman wears a burgundy scarf; a suitcase rests on the bench.",
+      "originalPngSha256": "4c8bf51019267a7552c32366507808b4bd8805970e33f98bb1ff2906b9314fa3"
+    },
+    {
+      "id": 83,
+      "sequence": "station",
+      "frame": "B",
+      "file": "83-station-b.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/83-station-b.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "19f3f0ad8675537a8e0b9ed3bfb8d977b82e12f20c3451b664ae15b6d97896c3",
+      "altText": "She carries the suitcase away; the scarf lies on the bench. Illustrated scene; At the station.",
+      "visibleEvidence": "She carries the suitcase away; the scarf lies on the bench.",
+      "originalPngSha256": "e9ab27ba669ac973eb57b23bac597db452ce779ce934e1625fa127771659a829"
+    },
+    {
+      "id": 84,
+      "sequence": "station",
+      "frame": "C",
+      "file": "84-station-c.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/84-station-c.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "67fa008c9030084184dd9e128a1185f9dd85bb2863f30072d3e547a1de66dd40",
+      "altText": "The woman and case are gone; the scarf is folded beneath a white flower. Illustrated scene; At the station.",
+      "visibleEvidence": "The woman and case are gone; the scarf is folded beneath a white flower.",
+      "originalPngSha256": "4c3d91a73d6f3e030f5f12a749c54c7cf4dc1d4d1f5681d80fb6d9aa50de5c8e"
+    },
+    {
+      "id": 85,
+      "sequence": "garden",
+      "frame": "A",
+      "file": "85-garden-a.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/85-garden-a.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "ab36aca20e45615fefd66a89e7ac12d510f8a911162e454256159d95ac65bdfb",
+      "altText": "The gate is chained shut; a drooping sapling stands in a pot outside. Illustrated scene; Behind the gate.",
+      "visibleEvidence": "The gate is chained shut; a drooping sapling stands in a pot outside.",
+      "originalPngSha256": "6d7b564d395ae55400cb215fe4a3566bb8f0ea61d25bca2b689e83ea9745ca90"
+    },
+    {
+      "id": 86,
+      "sequence": "garden",
+      "frame": "B",
+      "file": "86-garden-b.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/86-garden-b.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "9b05896a8d3e1d070662f6780d03b6fe805b785692918984ec637ffd00c3936c",
+      "altText": "The gate is open; a gardener waters the potted sapling. Illustrated scene; Behind the gate.",
+      "visibleEvidence": "The gate is open; a gardener waters the potted sapling.",
+      "originalPngSha256": "f8ab29946f64e855d4e64402bb9c8989fb8b801f8a278489e5b63912ded0931d"
+    },
+    {
+      "id": 87,
+      "sequence": "garden",
+      "frame": "C",
+      "file": "87-garden-c.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/87-garden-c.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "ce473d25ab5b72b593021d0c98593392bf4ae4846350d93e26c45bea8cb80915",
+      "altText": "The sapling is planted inside; the empty pot and watering can remain outside. Illustrated scene; Behind the gate.",
+      "visibleEvidence": "The sapling is planted inside; the empty pot and watering can remain outside.",
+      "originalPngSha256": "a18b85388c592d52c8451498a9ff200bc6f32835aa19e5455ca117889137f456"
+    },
+    {
+      "id": 88,
+      "sequence": "table",
+      "frame": "A",
+      "file": "88-table-a.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/88-table-a.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "603dd485dbfb085639c6c3f8055684f9661e0537bebf6b774f3f1c4d8c3975cf",
+      "altText": "One student sits with a closed burgundy book; the opposite chair is empty. Illustrated scene; Room at the table.",
+      "visibleEvidence": "One student sits with a closed burgundy book; the opposite chair is empty.",
+      "originalPngSha256": "ee1c818662cb591f69f6867e57f8fce9836ec6e8ef184b9fe5f0591b1bc5d85f"
+    },
+    {
+      "id": 89,
+      "sequence": "table",
+      "frame": "B",
+      "file": "89-table-b.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/89-table-b.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "ed91ad070d73143778e6ad841a7fc05fac4d72f829ad71f20da1359ac2430412",
+      "altText": "A second student stands beside that chair with an open notebook. Illustrated scene; Room at the table.",
+      "visibleEvidence": "A second student stands beside that chair with an open notebook.",
+      "originalPngSha256": "852b675cb47eca2ed2ffb884fcd3f521d12b3721ad9b4785fccda1a2dc0a706d"
+    },
+    {
+      "id": 90,
+      "sequence": "table",
+      "frame": "C",
+      "file": "90-table-c.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/90-table-c.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "7d3d3b22910aa15e32bceafa65aada2a55b192729f07342db1c8cad5394eb319",
+      "altText": "Both sit together and attend to the now-open burgundy book. Illustrated scene; Room at the table.",
+      "visibleEvidence": "Both sit together and attend to the now-open burgundy book.",
+      "originalPngSha256": "066cdeeee755389b8e333c1523b636bd1874522ad1777f396ce0b904f26b450f"
+    },
+    {
+      "id": 91,
+      "sequence": "lantern",
+      "frame": "A",
+      "file": "91-lantern-a.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/91-lantern-a.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "1ba58700a508ab3f6f1d2d16990bd561cdd390f541f69680b6ee2d0d6edc92ca",
+      "altText": "The door is closed, one upstairs window glows, and the hanging lantern is unlit. Illustrated scene; The lantern.",
+      "visibleEvidence": "The door is closed, one upstairs window glows, and the hanging lantern is unlit.",
+      "originalPngSha256": "f37b7db78ac1eef47b26e89ed76d152e8032bfbea93e0e3ae5c693997589e3ae"
+    },
+    {
+      "id": 92,
+      "sequence": "lantern",
+      "frame": "B",
+      "file": "92-lantern-b.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/92-lantern-b.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "9bb12c5a94ac0a5c1574d1606e6a6b5e41862ee50686b54595aa2713e14c58cf",
+      "altText": "The door is open, the window is dark, and the lantern stands by the doorway. Illustrated scene; The lantern.",
+      "visibleEvidence": "The door is open, the window is dark, and the lantern stands by the doorway.",
+      "originalPngSha256": "b136314fd000e6033fc6377929b033510037e1678ebfcb3208169d11c9ae27c0"
+    },
+    {
+      "id": 93,
+      "sequence": "lantern",
+      "frame": "C",
+      "file": "93-lantern-c.jpg",
+      "path": "assets/humanities-images/AE-Humanities-picture-sequences/93-lantern-c.jpg",
+      "width": 1672,
+      "height": 941,
+      "opaque": true,
+      "sha256": "f4c36f29cd98950d4b8911e3802e3e35bceb181f0ea35e2fe9174c40ec8e0548",
+      "altText": "The door and windows are dark; the hanging lantern is lit and shoeprints mark the path. Illustrated scene; The lantern.",
+      "visibleEvidence": "The door and windows are dark; the hanging lantern is lit and shoeprints mark the path.",
+      "originalPngSha256": "de2d7f8325adb6af3ec130ab4d70b67fdfaab8c519676420cebbe9d6b14401dd"
+    }
+  ],
+  "sequences": [
+    {
+      "key": "station",
+      "name": "At the station",
+      "themes": [
+        "Journeys",
+        "Absence",
+        "Kindness",
+        "Memory"
+      ],
+      "frames": [
+        "82-station-a",
+        "83-station-b",
+        "84-station-c"
+      ],
+      "observations": [
+        "A woman wears a burgundy scarf; a suitcase rests on the bench.",
+        "She carries the suitcase away; the scarf lies on the bench.",
+        "The woman and case are gone; the scarf is folded beneath a white flower."
+      ],
+      "observe": "Track the woman, the suitcase and the scarf. Which detail changes without anyone being shown changing it?",
+      "infer": "Who might have folded the scarf and added the flower? Offer two explanations and support each with a visible clue.",
+      "write": "Hide B. Write 80-120 words linking A to C. Give the scarf a meaning without directly explaining the emotion.",
+      "gap": "For a different gap, hide C and write two endings: one reassuring and one unsettling.",
+      "language": [
+        "left behind",
+        "folded",
+        "returned",
+        "might have",
+        "perhaps"
+      ],
+      "uncertainty": "We can see the changed scarf, but we cannot know who folded it or why the flower is there."
+    },
+    {
+      "key": "garden",
+      "name": "Behind the gate",
+      "themes": [
+        "Care",
+        "Change",
+        "Access",
+        "Responsibility"
+      ],
+      "frames": [
+        "85-garden-a",
+        "86-garden-b",
+        "87-garden-c"
+      ],
+      "observations": [
+        "The gate is chained shut; a drooping sapling stands in a pot outside.",
+        "The gate is open; a gardener waters the potted sapling.",
+        "The sapling is planted inside; the empty pot and watering can remain outside."
+      ],
+      "observe": "Compare the gate, the chain, the pot and the plant. List what is visibly different before explaining why.",
+      "infer": "What actions could connect these moments? Who might have opened the garden, and what evidence supports your explanation?",
+      "write": "Hide B. Write 80-120 words linking A to C. Show care through two concrete actions and include a plausible passage of time.",
+      "gap": "For a shorter task, write three cause-and-effect sentences using because, so and as a result.",
+      "language": [
+        "unlocked",
+        "watered",
+        "transplanted",
+        "because",
+        "as a result"
+      ],
+      "uncertainty": "The gardener is visible in B. Their identity, ownership of the garden and reasons for helping are not established."
+    },
+    {
+      "key": "table",
+      "name": "Room at the table",
+      "themes": [
+        "Belonging",
+        "Trust",
+        "Cooperation",
+        "Perspective"
+      ],
+      "frames": [
+        "88-table-a",
+        "89-table-b",
+        "90-table-c"
+      ],
+      "observations": [
+        "One student sits with a closed burgundy book; the opposite chair is empty.",
+        "A second student stands beside that chair with an open notebook.",
+        "Both sit together and attend to the now-open burgundy book."
+      ],
+      "observe": "Compare the empty chair, the book and the students' body positions. What is visible, and what are you only guessing?",
+      "infer": "What might have been said between B and C? Give two plausible exchanges. Avoid treating an expression as proof of a feeling.",
+      "write": "Hide B. Write a short scene linking A to C with four to six lines of dialogue and two small physical actions.",
+      "gap": "Retell the same moment from the other student's viewpoint. Keep the visible facts the same.",
+      "language": [
+        "hesitated",
+        "asked",
+        "offered",
+        "leaned forward",
+        "seemed"
+      ],
+      "uncertainty": "Shared attention is visible in C. Whether the students are friends, strangers or classmates is left open."
+    },
+    {
+      "key": "lantern",
+      "name": "The lantern",
+      "themes": [
+        "Mystery",
+        "Choice",
+        "Departure",
+        "Uncertainty"
+      ],
+      "frames": [
+        "91-lantern-a",
+        "92-lantern-b",
+        "93-lantern-c"
+      ],
+      "observations": [
+        "The door is closed, one upstairs window glows, and the hanging lantern is unlit.",
+        "The door is open, the window is dark, and the lantern stands by the doorway.",
+        "The door and windows are dark; the hanging lantern is lit and shoeprints mark the path."
+      ],
+      "observe": "Track the door, the upstairs window and the lantern. What new trace is visible on the path in C?",
+      "infer": "Who could have moved and lit the lantern? Offer an ordinary explanation and an unsettling one, using the same clues.",
+      "write": "Hide B. Write 80-120 words linking A to C. Use clear, concrete sentences and leave one question unanswered.",
+      "gap": "Alternatively, show A and B only. Predict the next image, then compare your ending with C.",
+      "language": [
+        "ajar",
+        "unlit",
+        "footprints",
+        "must have",
+        "could have"
+      ],
+      "uncertainty": "No person is shown. The prints do not establish who made them, when they were made, or the direction of travel."
+    }
+  ]
+}

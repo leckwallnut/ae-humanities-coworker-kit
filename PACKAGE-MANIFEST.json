@@ -1,0 +1,1259 @@
+{
+  "package": "AE Humanities - Coworker Kit",
+  "version": "1.1",
+  "date": "2026-10-28",
+  "skillName": "artifact-template-ae-humanities-ppts",
+  "validation": {
+    "imageAssets": 117,
+    "pngAssets": 55,
+    "jpgAssets": 62,
+    "markdownFiles": 38,
+    "localDocumentLinks": 115,
+    "htmlIndexes": 1,
+    "decks": [
+      {
+        "file": "artifact-template-ae-humanities-ppts/assets/motion-pilot.pptx",
+        "slides": 4,
+        "internalRelationships": 43,
+        "externalRelationships": 0
+      },
+      {
+        "file": "artifact-template-ae-humanities-ppts/assets/teaching-layouts.pptx",
+        "slides": 20,
+        "internalRelationships": 126,
+        "externalRelationships": 0
+      },
+      {
+        "file": "examples/First-run test - Observation and Interpretation (animated).pptx",
+        "slides": 3,
+        "internalRelationships": 37,
+        "externalRelationships": 0
+      },
+      {
+        "file": "examples/First-run test - Observation and Interpretation.pptx",
+        "slides": 3,
+        "internalRelationships": 37,
+        "externalRelationships": 0
+      },
+      {
+        "file": "examples/Quiet Words - Scary Stories with Hemingway.pptx",
+        "slides": 11,
+        "internalRelationships": 81,
+        "externalRelationships": 0
+      }
+    ],
+    "caseSensitivePathsChecked": true,
+    "absoluteHostPaths": 0,
+    "unresolvedLocalLinks": 0,
+    "skillFolderBytes": 139615161
+  },
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "bytes": 2090,
+      "sha256": "5219e43963d80e75c19983b346e94a10be2cb2312a4afd1d8ff08d53bf4b22f1"
+    },
+    {
+      "path": "FONT-GUIDE.md",
+      "bytes": 2849,
+      "sha256": "36f2ab88db66f114995e28eb06866ce2f254495a141e44dbda88fe1616ed10a2"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 19607,
+      "sha256": "0ceb47d70ccb21ed4c7f4af3381dee2f0f4d5b472b9ecc4c7e73a5238a77ffe7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4651,
+      "sha256": "b699ded34aaaa783ba72b7da40331bdade101ed0f576cb2d432d4a28502cb4be"
+    },
+    {
+      "path": "SETUP.md",
+      "bytes": 10211,
+      "sha256": "70f3209caf6aac9e32e6d39448f2ea573f4700a1df8f563cbde4b34703b83a31"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 6774,
+      "sha256": "e06df108263f575a8f13940ae5135dbf84f94c04c1d35bc4dbc8f8af7e8e166d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/SKILL.md",
+      "bytes": 4751,
+      "sha256": "fc6b926a718579cf773eb4ed51d2d4b0d01adc6bfcf8501c395590924c22b5de"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/STARTER-PROMPTS.md",
+      "bytes": 5685,
+      "sha256": "88e284c8facf5c82678a16a3281b79291926ea42dc9ca17bee5de4f625f57c4b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/agents/openai.yaml",
+      "bytes": 403,
+      "sha256": "4593aa06a6b6c403dfba7653135ee8717e0f87491bee82fa9ee42835a73e946f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/artifact-template.json",
+      "bytes": 133,
+      "sha256": "9c5b5ce161b57bc3862bceed7d7f0c8ee590538e7c0a34bef3072242dc1cd6cd"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/first-run-preview.jpg",
+      "bytes": 118373,
+      "sha256": "13eab4ddcaedcb34796956b78de3502f2912c59a7d03b21893afed989d723399"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/21-hemingway-hand-drawn-portrait.png",
+      "bytes": 2800169,
+      "sha256": "a1b588f5e3329f04831a01dfd76a7a01be6175527d15a99fbfb1e1ad50780b9f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/22-paris-years-hand-drawn.jpg",
+      "bytes": 565930,
+      "sha256": "455d64f58562036c84074ae73616b6baa072b4b122bc89f0e87189c01fa5098d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/23-war-and-reporting-biography-panel.png",
+      "bytes": 2806414,
+      "sha256": "2904ecfc7314dde3d95de4fccbf23a47e55e584d5c827f87c76febd24fd33224"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/24-cuba-writing-years-background.jpg",
+      "bytes": 315883,
+      "sha256": "b268f4875ead612164779cc5ca5e322f3515a3ada43a1508dc886301969eaedc"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/25-typewriter-manuscript-panel.png",
+      "bytes": 2611488,
+      "sha256": "ae89686a92cdfe85ac0116321f99c6807b65f508524a37d1fd2a34367dcc4113"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-Hemingway/README-prompts.md",
+      "bytes": 7304,
+      "sha256": "96fd5be080ed485abbcb85c083631e7cdf635b5d8462fc3633f8a33a11731ce9"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/43-moody-painters-studio-background.jpg",
+      "bytes": 469570,
+      "sha256": "35118ddb75b109f7fa8728dabd88c96b4489059a1ae576bca6d1de5958f6fd78"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/44-paint-stained-workbench-background.jpg",
+      "bytes": 660910,
+      "sha256": "18457dbb9806126a734126f3ef77db68f773780dd6308ad98028d71f98dc0d8b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/45-messy-palette-and-brushes.png",
+      "bytes": 3295758,
+      "sha256": "a88e120738e06378cb1ac993c05f0daf4748957cf4caa4a828670da90e977261"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/46-brush-jar-studio-cutout.png",
+      "bytes": 2037571,
+      "sha256": "bad2ba8c570a232ac553214a938b9deb6f6898f0c2d55f001d143046622bc10f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/47-blank-sketchbook-painting-panel.png",
+      "bytes": 2779467,
+      "sha256": "bfbe8c277ef3836105fe8f7fca3779839b785e9eedbb12b439e4b7620bba69c5"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-art-studio/README-prompts.md",
+      "bytes": 5655,
+      "sha256": "4558af3ebbb57c0b900e15ad673159250f5eadf3b1dcffbae981ff278a88795b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/38-classical-marble-philosopher-bust.png",
+      "bytes": 2217286,
+      "sha256": "306c3577e3926969880f94de46eaa9860bd6fc73b337bc47efcd5c91f7800545"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/39-marble-poetess-bust.png",
+      "bytes": 2169840,
+      "sha256": "2ab8c4c099cdc62a382a73becb20b35d0b0483857b3807c367dcb96e30f3ef8f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/40-seated-scholar-statue.png",
+      "bytes": 2435594,
+      "sha256": "ec08e26f2d92ac170bf87074bb77548f79adac9277f2807471b313ccaa44b740"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/41-standing-marble-muse.png",
+      "bytes": 1802876,
+      "sha256": "98671ebd9b7bd8a92c0c97aec8618bdfc92e77de8f406e34394f490359179073"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/42-roman-bronze-bust.png",
+      "bytes": 2401171,
+      "sha256": "1d74fad66b56b41dcb5de6c75769dc0cfe3681f670a7a5b952024e874772640c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-busts-and-statues/README-prompts.md",
+      "bytes": 5650,
+      "sha256": "968d2d742f33a597cd15efe3c6e6706f948ced068fb9ee691b19f11b757f2b94"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-creepy-pencil/26-hemingway-haunted-graphite-portrait.jpg",
+      "bytes": 438177,
+      "sha256": "86eab550024c3054ee30304ddebf8d77ff3b8e68c4d1387a9a15941b6cde318f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-creepy-pencil/27-empty-writers-room-graphite.jpg",
+      "bytes": 487999,
+      "sha256": "37d89bea6d3cc03f2dea35cf0aa44912ee49005683e11d347b8c7318bbf7c4a6"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-creepy-pencil/README-prompts.md",
+      "bytes": 3099,
+      "sha256": "4fc0063acc5fc59540af8d2bc43f774c4a677f020cab865a16e54c573ed5306d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/11-torn-paper-divider.png",
+      "bytes": 1185666,
+      "sha256": "e9cd865d1479fb9cc929e9fbc7c6b0ff4b8600e69acd25029eafa31f0a168472"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/12-brass-laurel-divider.png",
+      "bytes": 258242,
+      "sha256": "8d4365ee90081b2f391e97faf6b1f72799e1ecb2eac9dfae71d41159c5d7e216"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/13-burgundy-ribbon-divider.png",
+      "bytes": 739661,
+      "sha256": "09aab4a35059ee5fe8f8cd3efa274c6cea3e94c0e2246e59668ff7866228f81a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/14-wax-seal-heading-label.png",
+      "bytes": 1895679,
+      "sha256": "e59a9a5d940f3e0d857bc6126326676e9c43ab7e73a541d9b3d92b26533438e1"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/15-portrait-quotation-paper.png",
+      "bytes": 2550556,
+      "sha256": "b8c8ed51e2dd8e07dc5555d9d0fa8202788bc894612b8d1ecce4d8ebe25b84ad"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/16-landscape-text-card.png",
+      "bytes": 2116104,
+      "sha256": "9d0a4356ff9e5722c19e95968bc3b3b75af2e5a124cf09e5175418f086e003d5"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/17-dark-chalkboard-text-panel.png",
+      "bytes": 2593717,
+      "sha256": "c49ccdc513286b4b92c5cb4a1beee55c0b9145a960b1d05ea338e4a33357237d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/18-two-column-paper-panel.png",
+      "bytes": 2975226,
+      "sha256": "fe183461e9384a47489fc46174f6796ee64345e71d656642d4efb62ffd9dc590"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/19-arched-parchment-panel.png",
+      "bytes": 2673536,
+      "sha256": "538517d7a98a8f88f2015f3ed00a8caa3dd8bd3bb4e779e625ed8b01264b6d46"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/20-layered-index-card.png",
+      "bytes": 2700645,
+      "sha256": "af729881bd59263cc4a6a2e8750e4a5e7567d5b31ff28d62ada7a597f1c5ff00"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-2/README-prompts.md",
+      "bytes": 10263,
+      "sha256": "b6911cd35dcd219ee6e5db3f698a4cf9b907c9ecf7c00be9d54652ca484277a8"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/28-torn-paper-corner.png",
+      "bytes": 1688892,
+      "sha256": "3b696c1dc78ec091ebda2fa9e2206cadb1e61240f050540ad18b9ef33312fca9"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/29-pressed-botanical-sprig.png",
+      "bytes": 1753760,
+      "sha256": "ecd6d8fed221fbc11340efc87a042e4a5f8fbdb01e54654c3bd86eb88cf8f56c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/30-antique-spectacles.png",
+      "bytes": 1381218,
+      "sha256": "2ca85c198e8bea4377c12c1b32a758017581897c5112518b77f64331c6e7e874"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/31-pocket-watch.png",
+      "bytes": 2094771,
+      "sha256": "8251e3a021bdb1d62e1d6b1402b5d44c25699eafd42b621a57593f1834028997"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/32-sealed-envelope.png",
+      "bytes": 3000908,
+      "sha256": "132debc3b000d68381b70ae76acc618feffa0ffe7875603baf70d75a61a56237"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/33-blank-bookplate.png",
+      "bytes": 2744962,
+      "sha256": "e9c8f03a372b0c67eb65deba139ef8d8a74e704202eb9b52a1d99a7407e639eb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/34-archival-scroll.png",
+      "bytes": 2005451,
+      "sha256": "24b4121eee2dcb90002fe8c08dc46815cd9dfa84ed9a212bf5962d76d24ad01b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/35-small-brass-desk-lamp.png",
+      "bytes": 899319,
+      "sha256": "bdf8b76431f60ee7540d7a25eee6ee95ffcd48af0d95ea841c6fb682781b4acd"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/36-antique-frame.png",
+      "bytes": 837094,
+      "sha256": "2e8ff7ae4511bee59cf87364d8ea215331a289ed6190d2a4a67b1c15e482d7da"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/37-library-bookmark.png",
+      "bytes": 1477847,
+      "sha256": "cd47862a46989665b0259a093f7c316659701e5f308002fa33af851823801864"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia-set-3/README-prompts.md",
+      "bytes": 10927,
+      "sha256": "bd885ee8ddccbef63134ea2848839529538cd0149e2c6f0746672765216054dd"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/01-candlelit-library.jpg",
+      "bytes": 281289,
+      "sha256": "70a1a40e01542ce52866efd311313f33557b039de5cecce55d577a5e49b18400"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/02-scholar-desk-background.jpg",
+      "bytes": 468825,
+      "sha256": "ede4e6f26aa4ca8204ac4b2ea2928c7576c091be19f723d36554c2d64d2e2964"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/03-torn-parchment-panel.png",
+      "bytes": 2618597,
+      "sha256": "1c1fb740e6ea9a8e2a535ce2a8547bfc623d42d233677e3a40d2ec86cf60f1be"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/04-layered-paper-panel.png",
+      "bytes": 2756207,
+      "sha256": "dae70191723cb124f63c6fd1d29b44bff2d0f784eae7619c58da680d6fa669e7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/05-antique-candlestick.png",
+      "bytes": 1368729,
+      "sha256": "19104c5e3f9bbaf7c16969e16c2db2f0df9619b47f2a5137b33c4d587694b62e"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/06-burgundy-wax-seal.png",
+      "bytes": 2098512,
+      "sha256": "8365696498a2ff4fcf1cd3d0f3bd3276243ae630cb04201b5f6ceca841c5f7cc"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/07-antique-book-stack.png",
+      "bytes": 3277543,
+      "sha256": "eb75e6db23891eb9f33cddc11b2a026373b362c46c646d711534fdee40f18d2c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/08-open-antique-book.png",
+      "bytes": 2703208,
+      "sha256": "cdd845a2c670acf6b96029c2cef9af5370a1ab7b3227beb0b8a89f1e63494513"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/09-quill-and-inkwell.png",
+      "bytes": 1019805,
+      "sha256": "200a1148d59e8bb34397575b0adca4dcbc88094953bb7dd955eba25a12aabf66"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/10-brass-key-ribbon.png",
+      "bytes": 1826709,
+      "sha256": "94d8da28f8a1a9460546bd09588488374e7a1300bb3dc444d8893df7de9e4aac"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-dark-academia/README-prompts.md",
+      "bytes": 8468,
+      "sha256": "aa1110177639823e9080edf21c874c329820cc4eac031278c683e024a5025c4c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/48-library-text-left.jpg",
+      "bytes": 376566,
+      "sha256": "775cec75b4b1dcdb5f8627640209f586ddae2f065e3485678e532a5a3fdddf8d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/49-library-text-right.jpg",
+      "bytes": 376967,
+      "sha256": "07620fb094dea77128c6920415e21b46cdb6ed3572fc14979f1a8033e4fb2834"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/50-library-text-center.jpg",
+      "bytes": 377527,
+      "sha256": "d5caa7b5df97c229e5d35ac44ba6bd7a3555deaa640939f5388345eb2e9f8dc9"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/51-library-text-top-left.jpg",
+      "bytes": 334800,
+      "sha256": "76d30defa1b1f1ce35416a690800a320f74978562782f4142bfe89a8f0b6db8a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/52-library-text-top-right.jpg",
+      "bytes": 330370,
+      "sha256": "9eb8e4a666c990fe8a62fbd3d3c3a7a1801e9fd6b381c2c113e8ea5ec87febdb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/53-library-text-bottom-center.jpg",
+      "bytes": 456192,
+      "sha256": "05ae21987bfb123f0876356495fc0f905cde5b2af5c155c094e7f0b33f96b5b6"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-library-backgrounds/README-prompts.md",
+      "bytes": 7049,
+      "sha256": "564aebedc763a063e67c1cc7010443b28d33f5e661bb498c27b35fb53c9b6ae8"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/82-station-a.jpg",
+      "bytes": 567928,
+      "sha256": "45e040240d2289f68355f298bd4fce60d82ee243683a6e383facfeae6cc4a81b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/83-station-b.jpg",
+      "bytes": 615726,
+      "sha256": "19f3f0ad8675537a8e0b9ed3bfb8d977b82e12f20c3451b664ae15b6d97896c3"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/84-station-c.jpg",
+      "bytes": 612150,
+      "sha256": "67fa008c9030084184dd9e128a1185f9dd85bb2863f30072d3e547a1de66dd40"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/85-garden-a.jpg",
+      "bytes": 831688,
+      "sha256": "ab36aca20e45615fefd66a89e7ac12d510f8a911162e454256159d95ac65bdfb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/86-garden-b.jpg",
+      "bytes": 837600,
+      "sha256": "9b05896a8d3e1d070662f6780d03b6fe805b785692918984ec637ffd00c3936c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/87-garden-c.jpg",
+      "bytes": 811480,
+      "sha256": "ce473d25ab5b72b593021d0c98593392bf4ae4846350d93e26c45bea8cb80915"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/88-table-a.jpg",
+      "bytes": 540850,
+      "sha256": "603dd485dbfb085639c6c3f8055684f9661e0537bebf6b774f3f1c4d8c3975cf"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/89-table-b.jpg",
+      "bytes": 516737,
+      "sha256": "ed91ad070d73143778e6ad841a7fc05fac4d72f829ad71f20da1359ac2430412"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/90-table-c.jpg",
+      "bytes": 573159,
+      "sha256": "7d3d3b22910aa15e32bceafa65aada2a55b192729f07342db1c8cad5394eb319"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/91-lantern-a.jpg",
+      "bytes": 692034,
+      "sha256": "1ba58700a508ab3f6f1d2d16990bd561cdd390f541f69680b6ee2d0d6edc92ca"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/92-lantern-b.jpg",
+      "bytes": 620048,
+      "sha256": "9bb12c5a94ac0a5c1574d1606e6a6b5e41862ee50686b54595aa2713e14c58cf"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/93-lantern-c.jpg",
+      "bytes": 661852,
+      "sha256": "f4c36f29cd98950d4b8911e3802e3e35bceb181f0ea35e2fe9174c40ec8e0548"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/README-prompts.md",
+      "bytes": 20357,
+      "sha256": "6b4cceb1a60d8b4c954913b3e3184b19479f1d134060c462510324455885b61e"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/README.md",
+      "bytes": 8563,
+      "sha256": "e7f895478fa893d9b11bf2b8b7f24736ab52a495a77c33fecca0cae847f24ca4"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-picture-sequences/asset-catalog.json",
+      "bytes": 13638,
+      "sha256": "68137408f71b6a55ee9a6c5734dfdf68bd07e300691768041d1923f20637f8f7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/70-wide-parchment.jpg",
+      "bytes": 298690,
+      "sha256": "13b5cdad7f6d3ca9ab844874ef02f584abfe12c0340466008d482285012dab5d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/71-ivory-archive.jpg",
+      "bytes": 279451,
+      "sha256": "769a0adca1c8ebc284deca1d0384a5b1465c544f5ebeca8f00e8e0572bba9a6a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/72-cool-archive.jpg",
+      "bytes": 239327,
+      "sha256": "ba74ad80fc253708813a105fd2ef0fcf2e1bda8073e6c0cb3613d9736f450480"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/73-cotton-paper.jpg",
+      "bytes": 220476,
+      "sha256": "e4b65a1c743faf099d13ae2454cb6e99e8804820da668f8533fd7517fae4cfdb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/74-manuscript-left-margin.jpg",
+      "bytes": 282982,
+      "sha256": "0172cb754f23a81e09dafd59cf53832b741294c0f9f5f7f2aedae563c529a27a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/75-manuscript-right-margin.jpg",
+      "bytes": 269870,
+      "sha256": "ffe836064a253232b6e02be4de5c656652df48aa9de8889255e5010cb57af2bc"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/76-spacious-quotation.jpg",
+      "bytes": 280302,
+      "sha256": "5fbd5f6c833c82ca3697082781516acfe9240c74a4afd1e64452339a2c1566e2"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/77-heading-and-passage.jpg",
+      "bytes": 205019,
+      "sha256": "726c510d6d7cf0a4d9e74f54bd631b1722bf319b803b6de872251326937e949b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/78-paired-passages.jpg",
+      "bytes": 229279,
+      "sha256": "e73681ce0ed10bd2fb8bfd062ad6ba68e94a79b5abf7cbf5e023e5b05ce992a3"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/79-evidence-commentary.jpg",
+      "bytes": 249716,
+      "sha256": "cadf33991807b780ba2155d18b8c588cbff0796f3c447280503242a1bb63c69b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/80-stacked-revision.jpg",
+      "bytes": 227428,
+      "sha256": "edc5f9d35ff60f8de0f7078481dc40bff912482b49f9da18c90310c9469e7578"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/81-wide-reading-folio.jpg",
+      "bytes": 192010,
+      "sha256": "046c779513257560a00c00a890406b27855029cc9c5ff1de73bc174aea23bcec"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/README-prompts.md",
+      "bytes": 15402,
+      "sha256": "52c5564de9f13b0b4c40b00239ba083d5ef932d60db7bfd2dbb3c25b80b855a6"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/README.md",
+      "bytes": 5127,
+      "sha256": "298eefdf1b1b6ac2f5bbf32c1e8695fc60e3d88061af3cba75c64afdcdc7918d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-quiet-text-surfaces/asset-catalog.json",
+      "bytes": 16907,
+      "sha256": "20c2a4f039f1d3e2abd91c8f4172b11e3ee1b903a627ceae75ab27beb1891dbe"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/094-reading-room-left.jpg",
+      "bytes": 337994,
+      "sha256": "51f28e5300bca5a533e8cd0b0acc10ed435f3af78029a139c56af9163b209a4a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/095-reading-room-right.jpg",
+      "bytes": 298062,
+      "sha256": "dde7937ffca433289ddea4614ec655cfb7b19e1312ddc61ebca17a6be54fbd39"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/096-reading-room-center.jpg",
+      "bytes": 367652,
+      "sha256": "25755488a834f192f13e4fba6cb523a81c14f6e85d1841d87a0d02c45ed58944"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/097-reading-room-wide.jpg",
+      "bytes": 272308,
+      "sha256": "c10f45645eb349a39e4003176ae4dc9addbfb4aaba60ed421451395bf2b5b917"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/098-archive-left.jpg",
+      "bytes": 338954,
+      "sha256": "ca4b8150dd7a2926c33dad431b4935578cd48f73a797d632f341f4c454eb454d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/099-archive-right.jpg",
+      "bytes": 341921,
+      "sha256": "6138316f63eb0f2918f4797fad22d8143a904140cd9d8bf444ae05337cad1aec"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/100-archive-center.jpg",
+      "bytes": 374417,
+      "sha256": "fd9e785aa08179f4aec40a856cfec4259f7be2f862dd8796a477328efe76d79b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/101-archive-wide.jpg",
+      "bytes": 295744,
+      "sha256": "9951535c5d1c2b268256b486d6b63969ff579716aa0f6c0abb36165e32f88483"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/102-museum-left.jpg",
+      "bytes": 263739,
+      "sha256": "142832a44229a69ba405023dbff5c2b6bbde19f63124c69b0d889f4e97e50920"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/103-museum-right.jpg",
+      "bytes": 224790,
+      "sha256": "9c4c37f8ee1f7b740bfa5f6110fbb5f11dc49943156d4a054533abcacaedc9b5"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/104-museum-center.jpg",
+      "bytes": 281839,
+      "sha256": "39fb18c3025fa30ecde5bd369bdff480b3bd1282b78de25d61ecfccc2693a91b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/105-museum-wide.jpg",
+      "bytes": 237528,
+      "sha256": "6ffea71426799644ee3c47c03913374f88b1afb9a402df13eaf7a5a812573568"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/106-cloister-left.jpg",
+      "bytes": 390855,
+      "sha256": "1199b85cda4d95b198107d28e8d1f778ae772da910df801d6ad81ae01195b50e"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/107-cloister-right.jpg",
+      "bytes": 381217,
+      "sha256": "b873e23932b93be90346494159dc54273adb502734c1ef5059bb333fe6af88c5"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/108-cloister-center.jpg",
+      "bytes": 385696,
+      "sha256": "c38b62abe4ad7cdf3b29b4c13ab1f6d7adc03386373bdf3863a0c1cb0663eb68"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/109-cloister-wide.jpg",
+      "bytes": 379333,
+      "sha256": "50d7c04c461c356d772f16eb3f2c3515167ade606e3e859cc797b3d13b10835c"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/110-theatre-left.jpg",
+      "bytes": 324817,
+      "sha256": "e385b6dbcbf49fbcb4108a4e1a9c6f09213c8bc9542e395445401a1901ada18f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/111-theatre-right.jpg",
+      "bytes": 265412,
+      "sha256": "3c29b6abc7cf88bf2df8fa3cd739efb30e8a7f9cfc83d753c6a83323ec5710f7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/112-theatre-center.jpg",
+      "bytes": 284208,
+      "sha256": "accbdfccb8e871296f8114c357a671d80b3d8161ab3ca9b5d6adaca96f810101"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/113-theatre-wide.jpg",
+      "bytes": 259115,
+      "sha256": "3dfe9d54ccf7271d7fcad665a52b728c60f07ebff60bec4ea4139cdecb52441d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/114-rainy-study-left.jpg",
+      "bytes": 298170,
+      "sha256": "099d3ee0d90e8f8ec0f02d30de36be52234413416a5841c330980b8bbf5eb9d9"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/115-rainy-study-right.jpg",
+      "bytes": 329865,
+      "sha256": "219cad8b007b662b63c96a6ec77c19c92c64f84ca43f98052da0776e3316395e"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/116-rainy-study-center.jpg",
+      "bytes": 363528,
+      "sha256": "7ea27237fe66559c7e17d6e243cba65f7ebd51433ba847cf4852fbe3045ed3dd"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/117-rainy-study-wide.jpg",
+      "bytes": 292725,
+      "sha256": "03f9bf4cd69808f6f9efa1b193389c3de16a10ed57a9857c18a77b2950fd29a1"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/README-prompts.md",
+      "bytes": 49481,
+      "sha256": "b750e3221a90deb29654f0e72c3e4f5b6e6d01fb9181385e0adb08636c0e54c7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/README.md",
+      "bytes": 7179,
+      "sha256": "b1f0b79eb240bec132a4908fe90a5dd7e280c704d9ae183aef75423f0f7dc6c8"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-spacious-backgrounds/asset-catalog.json",
+      "bytes": 38833,
+      "sha256": "24916bd81dc7c82dd4258c685c8117c80f6cf5f10ab097dc2ae45d8d3793e451"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/54-pocket-compass.png",
+      "bytes": 1612234,
+      "sha256": "484dcb52eb5e3d0d346f0f33ee65c96935fa469070bcca8bebdb4556f3160d4f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/55-theatre-masks.png",
+      "bytes": 2162490,
+      "sha256": "cdeaf3b88922e899cd0c89164f8f92b623e77fcf881dfcb9ae2b7c9d3005b4a3"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/56-hand-mirror.png",
+      "bytes": 836504,
+      "sha256": "b8cd7e56d40b0d64703d994585afbb4490bee9aa7ae5a95a5fad778b3a650075"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/57-chess-pieces.png",
+      "bytes": 1135103,
+      "sha256": "af07273dbc2480b8b06d82333bec314bea951e32b61651f2706b5f88c2442e93"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/58-balance-scales.png",
+      "bytes": 910789,
+      "sha256": "9858a4a4fee8d81ec114afd3fa3cb888213d1a9bab0fe8b662f8f8f13172fab7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/59-broken-chain.png",
+      "bytes": 693966,
+      "sha256": "6ff1bb34c1f0156d21f6c70db6bec333c4e35bdc2da14f9ddd87853ee64fc7ab"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/60-spool-of-thread.png",
+      "bytes": 1522467,
+      "sha256": "aefe0f8631a22d0b85dfe55294af5ced147e27d9a8e92719fd7d69e396bfa31d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/61-travel-ticket.png",
+      "bytes": 1312794,
+      "sha256": "3266587f929dbb4a75e4589c0b59e8f6bb3d12344ee517e3270456972601c10f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/62-iron-key.png",
+      "bytes": 675668,
+      "sha256": "33c1a25b3b916158160550bda0dbdf53ec5f97b72314c8e13ce3ebda11357905"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/63-hourglass.png",
+      "bytes": 1335238,
+      "sha256": "5172cc698738822fbec5af0882159cec787d600c6ba6cfe1cf5e696a1b87169d"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/64-memory-locket.png",
+      "bytes": 1575486,
+      "sha256": "89dd8f7b76384291799553c8185ebd5bf8edc7aed3ab53111e3ae4c7f4ae956e"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/65-empty-frame.png",
+      "bytes": 1268697,
+      "sha256": "15c768463d60e786292cfedc940977afbd9899b02a29895955a8c05251759108"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/66-lantern.png",
+      "bytes": 974092,
+      "sha256": "22a88d441f81e84c48f32d455bfa33d593bc8b534bb6068dd5d051c1993a1e6b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/67-sealed-letter.png",
+      "bytes": 1628650,
+      "sha256": "e8df4948d3151f087863af7ce95604b1432c7df9f566f3d765ca5077c65e6299"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/68-worn-suitcase.png",
+      "bytes": 1946462,
+      "sha256": "c571fe2c6c44bcf9d9e319260829e1d54e976a65272df85c87be0329b71231e7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/69-laurel-wreath.png",
+      "bytes": 1673159,
+      "sha256": "41f40b6244b00f987569bceac25d3951148f2b1d00df16e6d126ff12331c3e8a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/README-prompts.md",
+      "bytes": 17064,
+      "sha256": "b5b6394a74e2dbd14f9c932c5ffc8e850c27ae2b51b840bab2614c3019b828ae"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/README.md",
+      "bytes": 3771,
+      "sha256": "943d4c8a384614f3f120eb6cb767bb27dccd7aeefeba4d09b537c9f54877ac85"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/asset-catalog.json",
+      "bytes": 12971,
+      "sha256": "373b34053ad3cadf3d86bdd351fce4bb0c7fd40720f44fe643001f20c2808feb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/humanities-images/AE-Humanities-symbolic-objects/index.html",
+      "bytes": 11976,
+      "sha256": "bbe3967041493dc6dbdb632033ddc057396d37af0e0f41639ebd4c0de6a2e22f"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/motion-pilot.pptx",
+      "bytes": 2039959,
+      "sha256": "24cdba18a3f10a0cbb32a3336a1ee7bc2ecef2674090ecaadebaff1cc748d1fe"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/preview.png",
+      "bytes": 34999,
+      "sha256": "653b975ef4b990aa3b9165871503c82bc715148e6981bd1bd25675dfa0446c73"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/assets/teaching-layouts.pptx",
+      "bytes": 8692027,
+      "sha256": "bed665912f01671efcf0754cbcbce9b5bc83893f7ba943a80a20d3c83aacc17a"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/asset-catalog.json",
+      "bytes": 22218,
+      "sha256": "f2cec62ec503644643d3642b65d221e03d11e64ea8d26c81fc001d93e8dca43b"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/authoring-guide.md",
+      "bytes": 3901,
+      "sha256": "5a93864b6412207472492aa052daf1adb5d8f2c61b94703461f8b94578e23c45"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/design-system.md",
+      "bytes": 4108,
+      "sha256": "2302adb93171b8ba1d61332cdbacb788fe5f57a3cd264940e9763e6dc348a4ea"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/first-run-check.md",
+      "bytes": 2759,
+      "sha256": "155014e9e72342a640a281f25c64c6072309bcfd2c70e9eaa1a08c7259374fba"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/image-library.md",
+      "bytes": 11032,
+      "sha256": "6b5cf13f333ba4cb10262c7fab23ed2b4995c7eccf1e58e7049ffbe2b91b69e4"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/layout-library.md",
+      "bytes": 3344,
+      "sha256": "28c504caed43746a05845932d0960b895379a6b5df1a2247a1682212bd952909"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/layouts.md",
+      "bytes": 3732,
+      "sha256": "31d8ea8e3582daf5519d435d8f05efd817e8465acf0734300fead6d5c3fe4ffa"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/lesson-presets.md",
+      "bytes": 12015,
+      "sha256": "95177415a358267b2912223cc42b6b938e4764fade9c538b034f159a54291312"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/motion-pilot-guide.md",
+      "bytes": 5706,
+      "sha256": "c6ec306ee4acc1fe41fcb10fbafa4642fe16835d734312ac719cec31dce5bfdd"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/motion.md",
+      "bytes": 4236,
+      "sha256": "b13282b1809dd3b7f91ff6471ce6be32c226fd0c8917bf6b1569e7cc342963d1"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/picture-sequence-catalog.json",
+      "bytes": 13638,
+      "sha256": "68137408f71b6a55ee9a6c5734dfdf68bd07e300691768041d1923f20637f8f7"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/picture-sequences.md",
+      "bytes": 8681,
+      "sha256": "668319eeba0be0cfc9744e4384888007b8d5da481dc16149d117ca8405808d93"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/powerpoint-checks.md",
+      "bytes": 7912,
+      "sha256": "4329a38cd79a9bfd40f28290dc9a12c7e2b569c7bf24457f12a60706262765c1"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/quiet-surface-catalog.json",
+      "bytes": 16907,
+      "sha256": "20c2a4f039f1d3e2abd91c8f4172b11e3ee1b903a627ceae75ab27beb1891dbe"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/quiet-surfaces.md",
+      "bytes": 5241,
+      "sha256": "857ece05f87f22778258e1a604e8a0f7f6258fe4a2c9338f54b87d832d8a8719"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/spacious-background-catalog.json",
+      "bytes": 38833,
+      "sha256": "24916bd81dc7c82dd4258c685c8117c80f6cf5f10ab097dc2ae45d8d3793e451"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/spacious-backgrounds.md",
+      "bytes": 7306,
+      "sha256": "6a6a67b7d753d1d7661c3c6fe49bb5634bf2e908cae54f6a2d223b5a225db297"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/symbolic-object-catalog.json",
+      "bytes": 12971,
+      "sha256": "373b34053ad3cadf3d86bdd351fce4bb0c7fd40720f44fe643001f20c2808feb"
+    },
+    {
+      "path": "artifact-template-ae-humanities-ppts/references/symbolic-objects.md",
+      "bytes": 3914,
+      "sha256": "3032afbf7abc48913ca2e18c41d5c2c048d476f504e3b7c6c605830590c575b8"
+    },
+    {
+      "path": "examples/First-run test - Observation and Interpretation (animated).pptx",
+      "bytes": 2500800,
+      "sha256": "1637f01146692b57941ee14dbae4819cc58fdef0a16d7bdcc75553b37d9cb0cb"
+    },
+    {
+      "path": "examples/First-run test - Observation and Interpretation.pptx",
+      "bytes": 2463855,
+      "sha256": "7b5c05b628d2d5a552852e22bab93aa399171332d5d5abd0086d1963cf52bc37"
+    },
+    {
+      "path": "examples/Quiet Words - Scary Stories with Hemingway.pptx",
+      "bytes": 9583570,
+      "sha256": "767ce6348829ca8add8fca58516af55284aa81e42643eebbb007b344d07c8e69"
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 1473,
+      "sha256": "b8dcccdadc5a1b8d472d9bc1eb1d71fc4ff93363d0551c99e2be6fc4d0321a18"
+    }
+  ],
+  "optionalExtras": {
+    "note": "Separate download. Original PNGs of the 62 opaque images and the three visual guide PDFs. The skill does not need these files.",
+    "originalPngs": 62,
+    "pdfGuides": 3,
+    "files": [
+      {
+        "path": "Extras/Original images/AE-Humanities-Hemingway/22-paris-years-hand-drawn.png",
+        "bytes": 2786520,
+        "sha256": "0387aad68c81c6f47852c35c7e863ad05ef1b27db426a3bfec099aa9f7f60587"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-Hemingway/24-cuba-writing-years-background.png",
+        "bytes": 1936386,
+        "sha256": "af20ea68d1eb0134527a870594475229585945fc4124a901d4760e455cbe219a"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-art-studio/43-moody-painters-studio-background.png",
+        "bytes": 2332109,
+        "sha256": "f62fd15f4d9342bcadd93f8feec4d77d3fcdb4076c537eec933f16b9bca6061a"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-art-studio/44-paint-stained-workbench-background.png",
+        "bytes": 2981254,
+        "sha256": "bd8c73a7a44df0a66bb4fdf40ecd7ef1a82e631c5fbb940b6e4bd63b9c8fc332"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-creepy-pencil/26-hemingway-haunted-graphite-portrait.png",
+        "bytes": 2844648,
+        "sha256": "23ce92ad79b759bec2469d1a559eed239feec93f9f97aa65a39b4fb3d52802fd"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-creepy-pencil/27-empty-writers-room-graphite.png",
+        "bytes": 2942927,
+        "sha256": "05e4a786ee54984525a7dd06e053b70cad75e33f9498f30078c399c3de8aee5d"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-dark-academia/01-candlelit-library.png",
+        "bytes": 1707382,
+        "sha256": "6f942673037d0761662007eccfc72054c4e48275c0ad615fefd23e76ab21a554"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-dark-academia/02-scholar-desk-background.png",
+        "bytes": 2433055,
+        "sha256": "f67334e233e3e93331dd2ebfaea2e0e9d0cb293b1a0cb33f4ec95c4752019f43"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/48-library-text-left.png",
+        "bytes": 2016828,
+        "sha256": "9adab475a86bdf06394ce02bf44c7dcc521042438957723fadb5a1a3a9c2bdd6"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/49-library-text-right.png",
+        "bytes": 2020318,
+        "sha256": "7bb73a9db0cb4492e2fcf4c3c02cbd6f01ebfb58b60ea9a53def115233c90265"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/50-library-text-center.png",
+        "bytes": 2016666,
+        "sha256": "1a2400e5d4977ffd9847a51bc9725290eee17fd12e73ed554b3daae17f8a1280"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/51-library-text-top-left.png",
+        "bytes": 1877739,
+        "sha256": "c03c372c78cfa4c255c09601c9bd1073942295928615335e9028c05a79866b36"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/52-library-text-top-right.png",
+        "bytes": 1844813,
+        "sha256": "4d21a3ebeaa548e7f316c4800788b1483f96f1bbff8bf581b0370b9c2d5811e4"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-library-backgrounds/53-library-text-bottom-center.png",
+        "bytes": 2071500,
+        "sha256": "a62ecace035836efc74d502bb3bf7b7cb984d20747f640443e100521c098ba14"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/82-station-a.png",
+        "bytes": 2917200,
+        "sha256": "4c8bf51019267a7552c32366507808b4bd8805970e33f98bb1ff2906b9314fa3"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/83-station-b.png",
+        "bytes": 2930894,
+        "sha256": "e9ab27ba669ac973eb57b23bac597db452ce779ce934e1625fa127771659a829"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/84-station-c.png",
+        "bytes": 2852486,
+        "sha256": "4c3d91a73d6f3e030f5f12a749c54c7cf4dc1d4d1f5681d80fb6d9aa50de5c8e"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/85-garden-a.png",
+        "bytes": 3669969,
+        "sha256": "6d7b564d395ae55400cb215fe4a3566bb8f0ea61d25bca2b689e83ea9745ca90"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/86-garden-b.png",
+        "bytes": 3655162,
+        "sha256": "f8ab29946f64e855d4e64402bb9c8989fb8b801f8a278489e5b63912ded0931d"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/87-garden-c.png",
+        "bytes": 3488372,
+        "sha256": "a18b85388c592d52c8451498a9ff200bc6f32835aa19e5455ca117889137f456"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/88-table-a.png",
+        "bytes": 2667177,
+        "sha256": "ee1c818662cb591f69f6867e57f8fce9836ec6e8ef184b9fe5f0591b1bc5d85f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/89-table-b.png",
+        "bytes": 2490033,
+        "sha256": "852b675cb47eca2ed2ffb884fcd3f521d12b3721ad9b4785fccda1a2dc0a706d"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/90-table-c.png",
+        "bytes": 2669299,
+        "sha256": "066cdeeee755389b8e333c1523b636bd1874522ad1777f396ce0b904f26b450f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/91-lantern-a.png",
+        "bytes": 3251141,
+        "sha256": "f37b7db78ac1eef47b26e89ed76d152e8032bfbea93e0e3ae5c693997589e3ae"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/92-lantern-b.png",
+        "bytes": 2927350,
+        "sha256": "b136314fd000e6033fc6377929b033510037e1678ebfcb3208169d11c9ae27c0"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-picture-sequences/93-lantern-c.png",
+        "bytes": 2971505,
+        "sha256": "de2d7f8325adb6af3ec130ab4d70b67fdfaab8c519676420cebbe9d6b14401dd"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/70-wide-parchment.png",
+        "bytes": 2220266,
+        "sha256": "7c585ea0000b6e458f4cdce0186041177f96432bf77439b61b1a29e6e6d976d3"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/71-ivory-archive.png",
+        "bytes": 2331826,
+        "sha256": "93ce94364dcb937dce938cd578eae199260e1b51632502be8433f19def9ab4f6"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/72-cool-archive.png",
+        "bytes": 2167966,
+        "sha256": "b8e55537620efbe6efb8b424ccb59efed7237d71935f3ec9e6b1801bbc6f40c7"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/73-cotton-paper.png",
+        "bytes": 2037456,
+        "sha256": "7b119c3d805e9427a9fa89e8eca0f02b3f2e7040bbb0194f6709160c712c94cc"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/74-manuscript-left-margin.png",
+        "bytes": 2308041,
+        "sha256": "034eeaac8463b4e082c2ecc0198aba713d82e8ebdabc44580722453b7c79c72b"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/75-manuscript-right-margin.png",
+        "bytes": 2173377,
+        "sha256": "713ef4d0b8c24cdd23f07ab61781345c58a3c9ad1bc5a8c81f65feb65c7a5eeb"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/76-spacious-quotation.png",
+        "bytes": 2226782,
+        "sha256": "5ceadb07e5424ca348e52e5abc834736338299933dad747ced73a98456242a18"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/77-heading-and-passage.png",
+        "bytes": 1975433,
+        "sha256": "a1925db00d81c24c16e1927d0b09928ca96bebac29bf84be5756c7675f43058d"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/78-paired-passages.png",
+        "bytes": 2008525,
+        "sha256": "0e87b414b9bc356779ec39ae4eec49eab759d046d49602b5b5d138841da58c5f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/79-evidence-commentary.png",
+        "bytes": 2124039,
+        "sha256": "e6bf3bd1fb61f92439dcb2917f3493c6bac810c29a29b46fb3be5263463f72e8"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/80-stacked-revision.png",
+        "bytes": 2011062,
+        "sha256": "565df74e80b45e0a104b98a7bdf11fc38f23662b2315427ee31b8cb28d0d63b0"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-quiet-text-surfaces/81-wide-reading-folio.png",
+        "bytes": 1966123,
+        "sha256": "54f871ab263431484d1e1bce5da44b4da910bf468eac47ca055378cf9fa8224f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/094-reading-room-left.png",
+        "bytes": 2099364,
+        "sha256": "1118fcb14cf890a5e36ebb4f42f4394fd763d405d1c283472cc1af4b892f9f2b"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/095-reading-room-right.png",
+        "bytes": 2068486,
+        "sha256": "b9544733238426f6ce00bb61de03f46f2db570a544de4d5af8b707e8ad2cccaf"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/096-reading-room-center.png",
+        "bytes": 2077699,
+        "sha256": "ab31816d0b3710dc611dff934b43341a52169d7969aaaca78563c1231a6a83ce"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/097-reading-room-wide.png",
+        "bytes": 1887367,
+        "sha256": "c49cc80415cf81a6ad80e80b2cf3564cc7f164d60684b25c79b4404f223d760f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/098-archive-left.png",
+        "bytes": 2266134,
+        "sha256": "171ff0e5c042c8bd37d8de5f1b1582b373aec6fe8a3978394bddbeea5bf4d70d"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/099-archive-right.png",
+        "bytes": 2283119,
+        "sha256": "d29014f6d32c2a4f8d3b74b0bad5fd539543e6f16fa1d07bdd342bd495ecbe01"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/100-archive-center.png",
+        "bytes": 2338845,
+        "sha256": "836eda6250fbaa660bf67e84a6a0062d8df2651d55ba558b5e51a1f608915dfe"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/101-archive-wide.png",
+        "bytes": 2109672,
+        "sha256": "eb87084e27c520c3ee2a1dbc6d18556c4817a39969b613212a76aedbe213cf7f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/102-museum-left.png",
+        "bytes": 1829690,
+        "sha256": "5f2d5742209e77cb808b3ee76776b8659ed5d94445dfee33ed6dc9a95a82c63b"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/103-museum-right.png",
+        "bytes": 1816310,
+        "sha256": "9c0b3108bd8361a8a80d9396e0b27ab90af4e0cdc7025e9410beea9d5c75f37f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/104-museum-center.png",
+        "bytes": 1886598,
+        "sha256": "d74a2a7f27677a5bafd51b4b8ffeb746172270589c227116728ef25f94652f2c"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/105-museum-wide.png",
+        "bytes": 1792909,
+        "sha256": "6a6c42375555cba909994da89e5a1da347f2ad99a7e6941cdc95b6d405f2e965"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/106-cloister-left.png",
+        "bytes": 2473744,
+        "sha256": "926f57c193ed93fedebb3a9048e4e81ec5817a12b6c72f5fa1d239c64307e39c"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/107-cloister-right.png",
+        "bytes": 2444201,
+        "sha256": "be7daaa77221877bc780b83654986e4fdb9f28898e974093a3a093c26da5e79f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/108-cloister-center.png",
+        "bytes": 2383127,
+        "sha256": "23ee40b2fce7c78a8584580a802171f5ec6eb27515d0c914100a00b867e6f687"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/109-cloister-wide.png",
+        "bytes": 2416332,
+        "sha256": "c8b569d0efd896e4b534827ca55d646af2ca368074740e17f7e8a12f85dff3c2"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/110-theatre-left.png",
+        "bytes": 1991641,
+        "sha256": "01f09333788f29102aebfaa672821ba7a01c4555a9a13bf392160038746025e8"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/111-theatre-right.png",
+        "bytes": 1828235,
+        "sha256": "7440f09788851282788f8454ae3238965097175d74e4c33954d1544cb7ee10d3"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/112-theatre-center.png",
+        "bytes": 1875454,
+        "sha256": "12d597e4f1df4acf53a93c3f43c1625ccb8ee1a47788f710007045ee8c7c494f"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/113-theatre-wide.png",
+        "bytes": 1822175,
+        "sha256": "b5e13a1db13648696494848da379e402a7e3ec856340a2e209203958b8d24695"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/114-rainy-study-left.png",
+        "bytes": 2001373,
+        "sha256": "30ffb27afd7b0bd45cdc203bee5323af1840fc9303413806810de1666cc948b9"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/115-rainy-study-right.png",
+        "bytes": 2131136,
+        "sha256": "611a110b0fdc8ee5a89cf4acc57ded9d40bf86698dc328588619e3b71c6a4ed3"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/116-rainy-study-center.png",
+        "bytes": 2181118,
+        "sha256": "3b95bebfa0e76e1489b41e5f1c10f1ad939620492a530dfa6cf811717160c1fd"
+      },
+      {
+        "path": "Extras/Original images/AE-Humanities-spacious-backgrounds/117-rainy-study-wide.png",
+        "bytes": 2032801,
+        "sha256": "d42be45f8917e29f6c1b4c8d69b92ad377535672ecf14963f09d2e28c368bf4c"
+      },
+      {
+        "path": "Extras/Visual guides/Quiet text surfaces - Visual guide.pdf",
+        "bytes": 33049460,
+        "sha256": "dbeb1dc7aa6f242532eae64d3705bf5c24ea956e6b0b42622790e55fb2e17e1a"
+      },
+      {
+        "path": "Extras/Visual guides/Spacious backgrounds - Visual background guide.pdf",
+        "bytes": 78783639,
+        "sha256": "e2bca4e83f576e7634b55963868a784266bdcfd23d44a05f3bef3ca873e045d6"
+      },
+      {
+        "path": "Extras/Visual guides/Story sequences - Visual story guide.pdf",
+        "bytes": 60568801,
+        "sha256": "a2b72b47578a16325f7453a270677c12aab0f3b455bb1cb5def23112adccadad"
+      }
+    ]
+  }
+}

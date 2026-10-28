@@ -1,0 +1,1214 @@
+{
+  "collection": "AE Humanities - Spacious Backgrounds",
+  "created": "2026-10-27",
+  "count": 24,
+  "aspectRatio": "16:9",
+  "slideSizeInches": [
+    13.333333,
+    7.5
+  ],
+  "coordinateConvention": "Normalized x, y, width, height from top left of the full, uncropped image. Multiply x/width by slide width and y/height by slide height.",
+  "notes": "Regions were adjusted to the finished images and checked with the sample type. Word budgets are starting points, not guarantees. Keep text separate and editable; verify actual slides after export. Contrast is a pixel check on these regions of the original PNGs, not a projector or PowerPoint playback test.",
+  "assets": [
+    {
+      "id": 94,
+      "slug": "094-reading-room-left",
+      "setting": "reading-room",
+      "settingName": "Reading room",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "dark",
+      "filename": "094-reading-room-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/094-reading-room-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "51f28e5300bca5a533e8cd0b0acc10ed435f3af78029a139c56af9163b209a4a",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.36,
+      "altText": "Reading room in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "1118fcb14cf890a5e36ebb4f42f4394fd763d405d1c283472cc1af4b892f9f2b"
+    },
+    {
+      "id": 95,
+      "slug": "095-reading-room-right",
+      "setting": "reading-room",
+      "settingName": "Reading room",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "dark",
+      "filename": "095-reading-room-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/095-reading-room-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dde7937ffca433289ddea4614ec655cfb7b19e1312ddc61ebca17a6be54fbd39",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 11.62,
+      "altText": "Reading room in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "b9544733238426f6ce00bb61de03f46f2db570a544de4d5af8b707e8ad2cccaf"
+    },
+    {
+      "id": 96,
+      "slug": "096-reading-room-center",
+      "setting": "reading-room",
+      "settingName": "Reading room",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "dark",
+      "filename": "096-reading-room-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/096-reading-room-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "25755488a834f192f13e4fba6cb523a81c14f6e85d1841d87a0d02c45ed58944",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.26,
+        0.14,
+        0.5,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.26,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.26,
+        0.33,
+        0.5,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 11.78,
+      "altText": "Reading room in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "ab31816d0b3710dc611dff934b43341a52169d7969aaaca78563c1231a6a83ce"
+    },
+    {
+      "id": 97,
+      "slug": "097-reading-room-wide",
+      "setting": "reading-room",
+      "settingName": "Reading room",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "dark",
+      "filename": "097-reading-room-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/097-reading-room-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c10f45645eb349a39e4003176ae4dc9addbfb4aaba60ed421451395bf2b5b917",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.12,
+        0.18,
+        0.78,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.12,
+        0.18,
+        0.78,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.12,
+        0.35,
+        0.78,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.44,
+      "altText": "Reading room in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "c49cc80415cf81a6ad80e80b2cf3564cc7f164d60684b25c79b4404f223d760f"
+    },
+    {
+      "id": 98,
+      "slug": "098-archive-left",
+      "setting": "archive",
+      "settingName": "Archive",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "light",
+      "filename": "098-archive-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/098-archive-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ca4b8150dd7a2926c33dad431b4935578cd48f73a797d632f341f4c454eb454d",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 8.37,
+      "altText": "Archive in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "171ff0e5c042c8bd37d8de5f1b1582b373aec6fe8a3978394bddbeea5bf4d70d"
+    },
+    {
+      "id": 99,
+      "slug": "099-archive-right",
+      "setting": "archive",
+      "settingName": "Archive",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "light",
+      "filename": "099-archive-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/099-archive-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6138316f63eb0f2918f4797fad22d8143a904140cd9d8bf444ae05337cad1aec",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 8.15,
+      "altText": "Archive in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "d29014f6d32c2a4f8d3b74b0bad5fd539543e6f16fa1d07bdd342bd495ecbe01"
+    },
+    {
+      "id": 100,
+      "slug": "100-archive-center",
+      "setting": "archive",
+      "settingName": "Archive",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "light",
+      "filename": "100-archive-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/100-archive-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fd9e785aa08179f4aec40a856cfec4259f7be2f862dd8796a477328efe76d79b",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.25,
+        0.33,
+        0.5,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 7.35,
+      "altText": "Archive in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "836eda6250fbaa660bf67e84a6a0062d8df2651d55ba558b5e51a1f608915dfe"
+    },
+    {
+      "id": 101,
+      "slug": "101-archive-wide",
+      "setting": "archive",
+      "settingName": "Archive",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "light",
+      "filename": "101-archive-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/101-archive-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9951535c5d1c2b268256b486d6b63969ff579716aa0f6c0abb36165e32f88483",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.14,
+        0.18,
+        0.72,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.14,
+        0.18,
+        0.72,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.14,
+        0.35,
+        0.72,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 7.53,
+      "altText": "Archive in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "eb87084e27c520c3ee2a1dbc6d18556c4817a39969b613212a76aedbe213cf7f"
+    },
+    {
+      "id": 102,
+      "slug": "102-museum-left",
+      "setting": "museum",
+      "settingName": "Museum gallery",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "dark",
+      "filename": "102-museum-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/102-museum-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "142832a44229a69ba405023dbff5c2b6bbde19f63124c69b0d889f4e97e50920",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.56
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.37000000000000005
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.48,
+      "altText": "Museum gallery in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "5f2d5742209e77cb808b3ee76776b8659ed5d94445dfee33ed6dc9a95a82c63b"
+    },
+    {
+      "id": 103,
+      "slug": "103-museum-right",
+      "setting": "museum",
+      "settingName": "Museum gallery",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "dark",
+      "filename": "103-museum-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/103-museum-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9c4c37f8ee1f7b740bfa5f6110fbb5f11dc49943156d4a054533abcacaedc9b5",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.05,
+      "altText": "Museum gallery in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "9c0b3108bd8361a8a80d9396e0b27ab90af4e0cdc7025e9410beea9d5c75f37f"
+    },
+    {
+      "id": 104,
+      "slug": "104-museum-center",
+      "setting": "museum",
+      "settingName": "Museum gallery",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "dark",
+      "filename": "104-museum-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/104-museum-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "39fb18c3025fa30ecde5bd369bdff480b3bd1282b78de25d61ecfccc2693a91b",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.25,
+        0.33,
+        0.5,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.92,
+      "altText": "Museum gallery in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "d74a2a7f27677a5bafd51b4b8ffeb746172270589c227116728ef25f94652f2c"
+    },
+    {
+      "id": 105,
+      "slug": "105-museum-wide",
+      "setting": "museum",
+      "settingName": "Museum gallery",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "dark",
+      "filename": "105-museum-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/105-museum-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6ffea71426799644ee3c47c03913374f88b1afb9a402df13eaf7a5a812573568",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.11,
+        0.18,
+        0.79,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.11,
+        0.18,
+        0.79,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.11,
+        0.35,
+        0.79,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 11.87,
+      "altText": "Museum gallery in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "6a6c42375555cba909994da89e5a1da347f2ad99a7e6941cdc95b6d405f2e965"
+    },
+    {
+      "id": 106,
+      "slug": "106-cloister-left",
+      "setting": "cloister",
+      "settingName": "Cloister",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "light",
+      "filename": "106-cloister-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/106-cloister-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1199b85cda4d95b198107d28e8d1f778ae772da910df801d6ad81ae01195b50e",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 9.32,
+      "altText": "Cloister in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "926f57c193ed93fedebb3a9048e4e81ec5817a12b6c72f5fa1d239c64307e39c"
+    },
+    {
+      "id": 107,
+      "slug": "107-cloister-right",
+      "setting": "cloister",
+      "settingName": "Cloister",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "light",
+      "filename": "107-cloister-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/107-cloister-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b873e23932b93be90346494159dc54273adb502734c1ef5059bb333fe6af88c5",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 9.47,
+      "altText": "Cloister in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "be7daaa77221877bc780b83654986e4fdb9f28898e974093a3a093c26da5e79f"
+    },
+    {
+      "id": 108,
+      "slug": "108-cloister-center",
+      "setting": "cloister",
+      "settingName": "Cloister",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "light",
+      "filename": "108-cloister-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/108-cloister-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c38b62abe4ad7cdf3b29b4c13ab1f6d7adc03386373bdf3863a0c1cb0663eb68",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.25,
+        0.33,
+        0.5,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 8.49,
+      "altText": "Cloister in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "23ee40b2fce7c78a8584580a802171f5ec6eb27515d0c914100a00b867e6f687"
+    },
+    {
+      "id": 109,
+      "slug": "109-cloister-wide",
+      "setting": "cloister",
+      "settingName": "Cloister",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "light",
+      "filename": "109-cloister-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/109-cloister-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "50d7c04c461c356d772f16eb3f2c3515167ade606e3e859cc797b3d13b10835c",
+      "opaque": true,
+      "textColor": "#211B16",
+      "textRegionNormalized": [
+        0.16,
+        0.18,
+        0.72,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.16,
+        0.18,
+        0.72,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.16,
+        0.35,
+        0.72,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 6.56,
+      "altText": "Cloister in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "c8b569d0efd896e4b534827ca55d646af2ca368074740e17f7e8a12f85dff3c2"
+    },
+    {
+      "id": 110,
+      "slug": "110-theatre-left",
+      "setting": "theatre",
+      "settingName": "Theatre",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "dark",
+      "filename": "110-theatre-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/110-theatre-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e385b6dbcbf49fbcb4108a4e1a9c6f09213c8bc9542e395445401a1901ada18f",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.68,
+      "altText": "Theatre in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "01f09333788f29102aebfaa672821ba7a01c4555a9a13bf392160038746025e8"
+    },
+    {
+      "id": 111,
+      "slug": "111-theatre-right",
+      "setting": "theatre",
+      "settingName": "Theatre",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "dark",
+      "filename": "111-theatre-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/111-theatre-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3c29b6abc7cf88bf2df8fa3cd739efb30e8a7f9cfc83d753c6a83323ec5710f7",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.86,
+      "altText": "Theatre in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "7440f09788851282788f8454ae3238965097175d74e4c33954d1544cb7ee10d3"
+    },
+    {
+      "id": 112,
+      "slug": "112-theatre-center",
+      "setting": "theatre",
+      "settingName": "Theatre",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "dark",
+      "filename": "112-theatre-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/112-theatre-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "accbdfccb8e871296f8114c357a671d80b3d8161ab3ca9b5d6adaca96f810101",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.56
+      ],
+      "headingBoxNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.25,
+        0.33,
+        0.5,
+        0.37000000000000005
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.53,
+      "altText": "Theatre in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "12d597e4f1df4acf53a93c3f43c1625ccb8ee1a47788f710007045ee8c7c494f"
+    },
+    {
+      "id": 113,
+      "slug": "113-theatre-wide",
+      "setting": "theatre",
+      "settingName": "Theatre",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "dark",
+      "filename": "113-theatre-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/113-theatre-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3dfe9d54ccf7271d7fcad665a52b728c60f07ebff60bec4ea4139cdecb52441d",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.09,
+        0.18,
+        0.82,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.09,
+        0.18,
+        0.82,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.09,
+        0.35,
+        0.82,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.78,
+      "altText": "Theatre in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "b5e13a1db13648696494848da379e402a7e3ec856340a2e209203958b8d24695"
+    },
+    {
+      "id": 114,
+      "slug": "114-rainy-study-left",
+      "setting": "rainy-study",
+      "settingName": "Rainy study",
+      "variant": "left",
+      "layoutName": "Text left",
+      "tone": "dark",
+      "filename": "114-rainy-study-left.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/114-rainy-study-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "099d3ee0d90e8f8ec0f02d30de36be52234413416a5841c330980b8bbf5eb9d9",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.07,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.07,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 13.16,
+      "altText": "Rainy study in a muted dark academia palette, with text left space.",
+      "originalPngSha256": "30ffb27afd7b0bd45cdc203bee5323af1840fc9303413806810de1666cc948b9"
+    },
+    {
+      "id": 115,
+      "slug": "115-rainy-study-right",
+      "setting": "rainy-study",
+      "settingName": "Rainy study",
+      "variant": "right",
+      "layoutName": "Text right",
+      "tone": "dark",
+      "filename": "115-rainy-study-right.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/115-rainy-study-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "219cad8b007b662b63c96a6ec77c19c92c64f84ca43f98052da0776e3316395e",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.42,
+        0.14,
+        0.51,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.42,
+        0.33,
+        0.51,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.33,
+      "altText": "Rainy study in a muted dark academia palette, with text right space.",
+      "originalPngSha256": "611a110b0fdc8ee5a89cf4acc57ded9d40bf86698dc328588619e3b71c6a4ed3"
+    },
+    {
+      "id": 116,
+      "slug": "116-rainy-study-center",
+      "setting": "rainy-study",
+      "settingName": "Rainy study",
+      "variant": "center",
+      "layoutName": "Text center",
+      "tone": "dark",
+      "filename": "116-rainy-study-center.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/116-rainy-study-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7ea27237fe66559c7e17d6e243cba65f7ebd51433ba847cf4852fbe3045ed3dd",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.58
+      ],
+      "headingBoxNormalized": [
+        0.25,
+        0.14,
+        0.5,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.25,
+        0.33,
+        0.5,
+        0.38999999999999996
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        30,
+        45
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest.",
+      "sampleBodyWords": 33,
+      "sampleBodyLines": 5,
+      "minimumSampleRegionContrast": 12.08,
+      "altText": "Rainy study in a muted dark academia palette, with text center space.",
+      "originalPngSha256": "3b95bebfa0e76e1489b41e5f1c10f1ad939620492a530dfa6cf811717160c1fd"
+    },
+    {
+      "id": 117,
+      "slug": "117-rainy-study-wide",
+      "setting": "rainy-study",
+      "settingName": "Rainy study",
+      "variant": "wide",
+      "layoutName": "Wide text",
+      "tone": "dark",
+      "filename": "117-rainy-study-wide.jpg",
+      "path": "assets/humanities-images/AE-Humanities-spacious-backgrounds/117-rainy-study-wide.jpg",
+      "width": 1672,
+      "height": 941,
+      "sha256": "03f9bf4cd69808f6f9efa1b193389c3de16a10ed57a9857c18a77b2950fd29a1",
+      "opaque": true,
+      "textColor": "#F2E8D5",
+      "textRegionNormalized": [
+        0.17,
+        0.18,
+        0.69,
+        0.54
+      ],
+      "headingBoxNormalized": [
+        0.17,
+        0.18,
+        0.69,
+        0.12
+      ],
+      "bodyBoxNormalized": [
+        0.17,
+        0.35,
+        0.69,
+        0.37
+      ],
+      "headingFont": "Georgia Bold",
+      "headingPt": 38,
+      "bodyFont": "Arial",
+      "bodyPt": 26,
+      "bodyLineSpacing": 1.25,
+      "suggestedBodyWords": [
+        50,
+        65
+      ],
+      "sampleHeading": "Read the silence",
+      "sampleBody": "A room can suggest a story before anyone speaks. Notice what the light reveals and what the shadows hide. Choose one detail that might matter to a character. Explain what it could suggest. Imagine a change. What is missing? Write three sentences linking the change to a choice.",
+      "sampleBodyWords": 48,
+      "sampleBodyLines": 6,
+      "minimumSampleRegionContrast": 10.74,
+      "altText": "Rainy study in a muted dark academia palette, with wide text space.",
+      "originalPngSha256": "d42be45f8917e29f6c1b4c8d69b92ad377535672ecf14963f09d2e28c368bf4c"
+    }
+  ]
+}

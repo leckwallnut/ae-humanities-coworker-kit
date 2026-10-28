@@ -1,0 +1,473 @@
+{
+  "collection": "AE Humanities symbolic objects",
+  "generatedDate": "2026-10-26",
+  "source": "Built-in image_gen in the Humanities skill conversation",
+  "aiGenerated": true,
+  "assetCount": 16,
+  "assets": [
+    {
+      "id": 54,
+      "name": "Compass",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/54-pocket-compass.png",
+      "themes": [
+        "Journeys",
+        "Choice"
+      ],
+      "discussionPrompt": "What guides the character when the route is uncertain?",
+      "altText": "Compass in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        21,
+        1234,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        110,
+        43,
+        1144,
+        1209
+      ],
+      "transparentFraction": 0.616,
+      "sha256": "484dcb52eb5e3d0d346f0f33ee65c96935fa469070bcca8bebdb4556f3160d4f",
+      "bytes": 1612234
+    },
+    {
+      "id": 55,
+      "name": "Theatre masks",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/55-theatre-masks.png",
+      "themes": [
+        "Identity",
+        "Performance"
+      ],
+      "discussionPrompt": "Which public role conceals the character’s private feelings?",
+      "altText": "Theatre masks in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        46,
+        21,
+        1239,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        53,
+        75,
+        1237,
+        1224
+      ],
+      "transparentFraction": 0.4871,
+      "sha256": "cdeaf3b88922e899cd0c89164f8f92b623e77fcf881dfcb9ae2b7c9d3005b4a3",
+      "bytes": 2162490
+    },
+    {
+      "id": 56,
+      "name": "Hand mirror",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/56-hand-mirror.png",
+      "themes": [
+        "Identity",
+        "Self-perception"
+      ],
+      "discussionPrompt": "How does the character’s self-image differ from how others see them?",
+      "altText": "Hand mirror in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        1208,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        351,
+        15,
+        898,
+        1226
+      ],
+      "transparentFraction": 0.7984,
+      "sha256": "b8cd7e56d40b0d64703d994585afbb4490bee9aa7ae5a95a5fad778b3a650075",
+      "bytes": 836504
+    },
+    {
+      "id": 57,
+      "name": "King and pawn",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/57-chess-pieces.png",
+      "themes": [
+        "Power",
+        "Agency"
+      ],
+      "discussionPrompt": "Who controls the rules, and what choices remain for the weaker character?",
+      "altText": "King and pawn in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        12,
+        1232,
+        1209
+      ],
+      "opaqueCoreBounds": [
+        228,
+        15,
+        1025,
+        1206
+      ],
+      "transparentFraction": 0.7137,
+      "sha256": "af07273dbc2480b8b06d82333bec314bea951e32b61651f2706b5f88c2442e93",
+      "bytes": 1135103
+    },
+    {
+      "id": 58,
+      "name": "Balance scales",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/58-balance-scales.png",
+      "themes": [
+        "Justice",
+        "Choice"
+      ],
+      "discussionPrompt": "Which values does the character weigh against each other?",
+      "altText": "Balance scales in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        31,
+        1254,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        46,
+        35,
+        1208,
+        1218
+      ],
+      "transparentFraction": 0.7792,
+      "sha256": "9858a4a4fee8d81ec114afd3fa3cb888213d1a9bab0fe8b662f8f8f13172fab7",
+      "bytes": 910789
+    },
+    {
+      "id": 59,
+      "name": "Broken chain",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/59-broken-chain.png",
+      "themes": [
+        "Freedom",
+        "Resistance"
+      ],
+      "discussionPrompt": "What has been broken, and what still limits the character?",
+      "altText": "Broken chain in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        17,
+        22,
+        1238,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        23,
+        401,
+        1232,
+        874
+      ],
+      "transparentFraction": 0.8447,
+      "sha256": "6ff1bb34c1f0156d21f6c70db6bec333c4e35bdc2da14f9ddd87853ee64fc7ab",
+      "bytes": 693966
+    },
+    {
+      "id": 60,
+      "name": "Spool of thread",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/60-spool-of-thread.png",
+      "themes": [
+        "Connection",
+        "Fate"
+      ],
+      "discussionPrompt": "Which event connects the beginning of the story to its ending?",
+      "altText": "Spool of thread in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        20,
+        1236,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        99,
+        127,
+        1215,
+        1117
+      ],
+      "transparentFraction": 0.6507,
+      "sha256": "aefe0f8631a22d0b85dfe55294af5ced147e27d9a8e92719fd7d69e396bfa31d",
+      "bytes": 1522467
+    },
+    {
+      "id": 61,
+      "name": "Travel ticket",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/61-travel-ticket.png",
+      "themes": [
+        "Journeys",
+        "Opportunity"
+      ],
+      "discussionPrompt": "Does departure offer freedom, escape or loss?",
+      "altText": "Travel ticket in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        1222,
+        1228
+      ],
+      "opaqueCoreBounds": [
+        41,
+        379,
+        1213,
+        902
+      ],
+      "transparentFraction": 0.6516,
+      "sha256": "3266587f929dbb4a75e4589c0b59e8f6bb3d12344ee517e3270456972601c10f",
+      "bytes": 1312794
+    },
+    {
+      "id": 62,
+      "name": "Iron key",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/62-iron-key.png",
+      "themes": [
+        "Access",
+        "Secrets"
+      ],
+      "discussionPrompt": "Who has access to knowledge or a place that others cannot enter?",
+      "altText": "Iron key in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        25,
+        35,
+        1240,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        62,
+        86,
+        1218,
+        1197
+      ],
+      "transparentFraction": 0.8534,
+      "sha256": "33c1a25b3b916158160550bda0dbdf53ec5f97b72314c8e13ce3ebda11357905",
+      "bytes": 675668
+    },
+    {
+      "id": 63,
+      "name": "Hourglass",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/63-hourglass.png",
+      "themes": [
+        "Time",
+        "Choice"
+      ],
+      "discussionPrompt": "How does limited time change a decision?",
+      "altText": "Hourglass in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        10,
+        1240,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        307,
+        13,
+        965,
+        1208
+      ],
+      "transparentFraction": 0.6446,
+      "sha256": "5172cc698738822fbec5af0882159cec787d600c6ba6cfe1cf5e696a1b87169d",
+      "bytes": 1335238
+    },
+    {
+      "id": 64,
+      "name": "Open locket",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/64-memory-locket.png",
+      "themes": [
+        "Memory",
+        "Belonging"
+      ],
+      "discussionPrompt": "What does the character choose to carry from the past?",
+      "altText": "Open locket in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        9,
+        1240,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        69,
+        188,
+        1199,
+        1025
+      ],
+      "transparentFraction": 0.5847,
+      "sha256": "89dd8f7b76384291799553c8185ebd5bf8edc7aed3ab53111e3ae4c7f4ae956e",
+      "bytes": 1575486
+    },
+    {
+      "id": 65,
+      "name": "Empty portrait frame",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/65-empty-frame.png",
+      "themes": [
+        "Absence",
+        "Identity"
+      ],
+      "discussionPrompt": "Whose story is missing from the account?",
+      "altText": "Empty portrait frame in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        11,
+        1230,
+        1238
+      ],
+      "opaqueCoreBounds": [
+        135,
+        15,
+        1119,
+        1234
+      ],
+      "transparentFraction": 0.7206,
+      "sha256": "15c768463d60e786292cfedc940977afbd9899b02a29895955a8c05251759108",
+      "bytes": 1268697
+    },
+    {
+      "id": 66,
+      "name": "Lantern",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/66-lantern.png",
+      "themes": [
+        "Knowledge",
+        "Hope"
+      ],
+      "discussionPrompt": "What becomes visible, and what remains in darkness?",
+      "altText": "Lantern in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        19,
+        1240,
+        1233
+      ],
+      "opaqueCoreBounds": [
+        360,
+        40,
+        894,
+        1200
+      ],
+      "transparentFraction": 0.7429,
+      "sha256": "22a88d441f81e84c48f32d455bfa33d593bc8b534bb6068dd5d051c1993a1e6b",
+      "bytes": 974092
+    },
+    {
+      "id": 67,
+      "name": "Sealed letter",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/67-sealed-letter.png",
+      "themes": [
+        "Communication",
+        "Secrecy"
+      ],
+      "discussionPrompt": "What might change if the message were opened or delivered?",
+      "altText": "Sealed letter in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        28,
+        1243,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        45,
+        248,
+        1229,
+        1006
+      ],
+      "transparentFraction": 0.575,
+      "sha256": "e8df4948d3151f087863af7ce95604b1432c7df9f566f3d765ca5077c65e6299",
+      "bytes": 1628650
+    },
+    {
+      "id": 68,
+      "name": "Worn suitcase",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/68-worn-suitcase.png",
+      "themes": [
+        "Migration",
+        "Belonging"
+      ],
+      "discussionPrompt": "What can the traveller take, and what must remain behind?",
+      "altText": "Worn suitcase in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        19,
+        1239,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        29,
+        208,
+        1231,
+        1026
+      ],
+      "transparentFraction": 0.4947,
+      "sha256": "c571fe2c6c44bcf9d9e319260829e1d54e976a65272df85c87be0329b71231e7",
+      "bytes": 1946462
+    },
+    {
+      "id": 69,
+      "name": "Laurel wreath",
+      "path": "assets/humanities-images/AE-Humanities-symbolic-objects/69-laurel-wreath.png",
+      "themes": [
+        "Achievement",
+        "Status"
+      ],
+      "discussionPrompt": "Who defines success, and what does it cost?",
+      "altText": "Laurel wreath in an antique dark academia style, isolated on a transparent background.",
+      "width": 1254,
+      "height": 1254,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        10,
+        1238,
+        1254
+      ],
+      "opaqueCoreBounds": [
+        28,
+        85,
+        1226,
+        1167
+      ],
+      "transparentFraction": 0.6219,
+      "sha256": "41f40b6244b00f987569bceac25d3951148f2b1d00df16e6d126ff12331c3e8a",
+      "bytes": 1673159
+    }
+  ]
+}

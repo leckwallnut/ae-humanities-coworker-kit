@@ -1,0 +1,7 @@
+interface:
+  display_name: "AE Humanities PPTs"
+  short_description: "Dark academia slides with readable fonts and 117 images"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-ae-humanities-ppts to make an editable Humanities class PowerPoint with Georgia headings, Arial body text, varied layouts, and the bundled images."
+policy:
+  allow_implicit_invocation: true

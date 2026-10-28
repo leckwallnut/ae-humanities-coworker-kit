@@ -1,0 +1,4 @@
+# Extras are published as a release download, not kept in the repository.
+Extras/
+*.tmp
+~$*

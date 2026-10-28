@@ -1,0 +1,814 @@
+{
+  "sourceChat": "AE Humanities ppts",
+  "assets": [
+    {
+      "id": 1,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/01-candlelit-library.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 281289,
+      "sha256": "70a1a40e01542ce52866efd311313f33557b039de5cecce55d577a5e49b18400",
+      "originalPngSha256": "6f942673037d0761662007eccfc72054c4e48275c0ad615fefd23e76ab21a554"
+    },
+    {
+      "id": 2,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/02-scholar-desk-background.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 468825,
+      "sha256": "ede4e6f26aa4ca8204ac4b2ea2928c7576c091be19f723d36554c2d64d2e2964",
+      "originalPngSha256": "f67334e233e3e93331dd2ebfaea2e0e9d0cb293b1a0cb33f4ec95c4752019f43"
+    },
+    {
+      "id": 3,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/03-torn-parchment-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        27,
+        21,
+        1504,
+        994
+      ],
+      "bytes": 2618597,
+      "sha256": "1c1fb740e6ea9a8e2a535ce2a8547bfc623d42d233677e3a40d2ec86cf60f1be"
+    },
+    {
+      "id": 4,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/04-layered-paper-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        4,
+        1507,
+        978
+      ],
+      "bytes": 2756207,
+      "sha256": "dae70191723cb124f63c6fd1d29b44bff2d0f784eae7619c58da680d6fa669e7"
+    },
+    {
+      "id": 5,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/05-antique-candlestick.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        25,
+        28,
+        962,
+        1486
+      ],
+      "bytes": 1368729,
+      "sha256": "19104c5e3f9bbaf7c16969e16c2db2f0df9619b47f2a5137b33c4d587694b62e"
+    },
+    {
+      "id": 6,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/06-burgundy-wax-seal.png",
+      "width": 1295,
+      "height": 1214,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        29,
+        1247,
+        1196
+      ],
+      "bytes": 2098512,
+      "sha256": "8365696498a2ff4fcf1cd3d0f3bd3276243ae630cb04201b5f6ceca841c5f7cc"
+    },
+    {
+      "id": 7,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/07-antique-book-stack.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        1518,
+        1024
+      ],
+      "bytes": 3277543,
+      "sha256": "eb75e6db23891eb9f33cddc11b2a026373b362c46c646d711534fdee40f18d2c"
+    },
+    {
+      "id": 8,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/08-open-antique-book.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        52,
+        2,
+        1488,
+        1008
+      ],
+      "bytes": 2703208,
+      "sha256": "cdd845a2c670acf6b96029c2cef9af5370a1ab7b3227beb0b8a89f1e63494513"
+    },
+    {
+      "id": 9,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/09-quill-and-inkwell.png",
+      "width": 1145,
+      "height": 1374,
+      "hasTransparency": true,
+      "alphaBounds": [
+        33,
+        17,
+        1073,
+        1342
+      ],
+      "bytes": 1019805,
+      "sha256": "200a1148d59e8bb34397575b0adca4dcbc88094953bb7dd955eba25a12aabf66"
+    },
+    {
+      "id": 10,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia/10-brass-key-ribbon.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        48,
+        21,
+        1522,
+        1024
+      ],
+      "bytes": 1826709,
+      "sha256": "94d8da28f8a1a9460546bd09588488374e7a1300bb3dc444d8893df7de9e4aac"
+    },
+    {
+      "id": 11,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/11-torn-paper-divider.png",
+      "width": 2172,
+      "height": 724,
+      "hasTransparency": true,
+      "alphaBounds": [
+        39,
+        19,
+        2154,
+        714
+      ],
+      "bytes": 1185666,
+      "sha256": "e9cd865d1479fb9cc929e9fbc7c6b0ff4b8600e69acd25029eafa31f0a168472"
+    },
+    {
+      "id": 12,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/12-brass-laurel-divider.png",
+      "width": 2098,
+      "height": 749,
+      "hasTransparency": true,
+      "alphaBounds": [
+        35,
+        154,
+        2072,
+        690
+      ],
+      "bytes": 258242,
+      "sha256": "8d4365ee90081b2f391e97faf6b1f72799e1ecb2eac9dfae71d41159c5d7e216"
+    },
+    {
+      "id": 13,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/13-burgundy-ribbon-divider.png",
+      "width": 2172,
+      "height": 724,
+      "hasTransparency": true,
+      "alphaBounds": [
+        26,
+        73,
+        2138,
+        698
+      ],
+      "bytes": 739661,
+      "sha256": "09aab4a35059ee5fe8f8cd3efa274c6cea3e94c0e2246e59668ff7866228f81a"
+    },
+    {
+      "id": 14,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/14-wax-seal-heading-label.png",
+      "width": 2172,
+      "height": 724,
+      "hasTransparency": true,
+      "alphaBounds": [
+        35,
+        39,
+        2126,
+        652
+      ],
+      "bytes": 1895679,
+      "sha256": "e59a9a5d940f3e0d857bc6126326676e9c43ab7e73a541d9b3d92b26533438e1"
+    },
+    {
+      "id": 15,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/15-portrait-quotation-paper.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        39,
+        2,
+        993,
+        1536
+      ],
+      "bytes": 2550556,
+      "sha256": "b8c8ed51e2dd8e07dc5555d9d0fa8202788bc894612b8d1ecce4d8ebe25b84ad"
+    },
+    {
+      "id": 16,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/16-landscape-text-card.png",
+      "width": 1586,
+      "height": 992,
+      "hasTransparency": true,
+      "alphaBounds": [
+        97,
+        21,
+        1492,
+        924
+      ],
+      "bytes": 2116104,
+      "sha256": "9d0a4356ff9e5722c19e95968bc3b3b75af2e5a124cf09e5175418f086e003d5"
+    },
+    {
+      "id": 17,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/17-dark-chalkboard-text-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        51,
+        1507,
+        1000
+      ],
+      "bytes": 2593717,
+      "sha256": "c49ccdc513286b4b92c5cb4a1beee55c0b9145a960b1d05ea338e4a33357237d"
+    },
+    {
+      "id": 18,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/18-two-column-paper-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        43,
+        19,
+        1493,
+        992
+      ],
+      "bytes": 2975226,
+      "sha256": "fe183461e9384a47489fc46174f6796ee64345e71d656642d4efb62ffd9dc590"
+    },
+    {
+      "id": 19,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/19-arched-parchment-panel.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        930,
+        1536
+      ],
+      "bytes": 2673536,
+      "sha256": "538517d7a98a8f88f2015f3ed00a8caa3dd8bd3bb4e779e625ed8b01264b6d46"
+    },
+    {
+      "id": 20,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-2/20-layered-index-card.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        1500,
+        1008
+      ],
+      "bytes": 2700645,
+      "sha256": "af729881bd59263cc4a6a2e8750e4a5e7567d5b31ff28d62ada7a597f1c5ff00"
+    },
+    {
+      "id": 21,
+      "path": "assets/humanities-images/AE-Humanities-Hemingway/21-hemingway-hand-drawn-portrait.png",
+      "width": 1199,
+      "height": 1312,
+      "hasTransparency": true,
+      "alphaBounds": [
+        17,
+        5,
+        1183,
+        1312
+      ],
+      "bytes": 2800169,
+      "sha256": "a1b588f5e3329f04831a01dfd76a7a01be6175527d15a99fbfb1e1ad50780b9f"
+    },
+    {
+      "id": 22,
+      "path": "assets/humanities-images/AE-Humanities-Hemingway/22-paris-years-hand-drawn.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 565930,
+      "sha256": "455d64f58562036c84074ae73616b6baa072b4b122bc89f0e87189c01fa5098d",
+      "originalPngSha256": "0387aad68c81c6f47852c35c7e863ad05ef1b27db426a3bfec099aa9f7f60587"
+    },
+    {
+      "id": 23,
+      "path": "assets/humanities-images/AE-Humanities-Hemingway/23-war-and-reporting-biography-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        0,
+        1526,
+        979
+      ],
+      "bytes": 2806414,
+      "sha256": "2904ecfc7314dde3d95de4fccbf23a47e55e584d5c827f87c76febd24fd33224"
+    },
+    {
+      "id": 24,
+      "path": "assets/humanities-images/AE-Humanities-Hemingway/24-cuba-writing-years-background.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 315883,
+      "sha256": "b268f4875ead612164779cc5ca5e322f3515a3ada43a1508dc886301969eaedc",
+      "originalPngSha256": "af20ea68d1eb0134527a870594475229585945fc4124a901d4760e455cbe219a"
+    },
+    {
+      "id": 25,
+      "path": "assets/humanities-images/AE-Humanities-Hemingway/25-typewriter-manuscript-panel.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        16,
+        22,
+        1008,
+        1522
+      ],
+      "bytes": 2611488,
+      "sha256": "ae89686a92cdfe85ac0116321f99c6807b65f508524a37d1fd2a34367dcc4113"
+    },
+    {
+      "id": 26,
+      "path": "assets/humanities-images/AE-Humanities-creepy-pencil/26-hemingway-haunted-graphite-portrait.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 438177,
+      "sha256": "86eab550024c3054ee30304ddebf8d77ff3b8e68c4d1387a9a15941b6cde318f",
+      "originalPngSha256": "23ce92ad79b759bec2469d1a559eed239feec93f9f97aa65a39b4fb3d52802fd"
+    },
+    {
+      "id": 27,
+      "path": "assets/humanities-images/AE-Humanities-creepy-pencil/27-empty-writers-room-graphite.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 487999,
+      "sha256": "37d89bea6d3cc03f2dea35cf0aa44912ee49005683e11d347b8c7318bbf7c4a6",
+      "originalPngSha256": "05e4a786ee54984525a7dd06e053b70cad75e33f9498f30078c399c3de8aee5d"
+    },
+    {
+      "id": 28,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/28-torn-paper-corner.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        61,
+        31,
+        1498,
+        1000
+      ],
+      "bytes": 1688892,
+      "sha256": "3b696c1dc78ec091ebda2fa9e2206cadb1e61240f050540ad18b9ef33312fca9"
+    },
+    {
+      "id": 29,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/29-pressed-botanical-sprig.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        65,
+        50,
+        894,
+        1514
+      ],
+      "bytes": 1753760,
+      "sha256": "ecd6d8fed221fbc11340efc87a042e4a5f8fbdb01e54654c3bd86eb88cf8f56c"
+    },
+    {
+      "id": 30,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/30-antique-spectacles.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        25,
+        21,
+        1512,
+        1024
+      ],
+      "bytes": 1381218,
+      "sha256": "2ca85c198e8bea4377c12c1b32a758017581897c5112518b77f64331c6e7e874"
+    },
+    {
+      "id": 31,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/31-pocket-watch.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        49,
+        19,
+        1480,
+        1024
+      ],
+      "bytes": 2094771,
+      "sha256": "8251e3a021bdb1d62e1d6b1402b5d44c25699eafd42b621a57593f1834028997"
+    },
+    {
+      "id": 32,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/32-sealed-envelope.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        70,
+        20,
+        1462,
+        972
+      ],
+      "bytes": 3000908,
+      "sha256": "132debc3b000d68381b70ae76acc618feffa0ffe7875603baf70d75a61a56237"
+    },
+    {
+      "id": 33,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/33-blank-bookplate.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        48,
+        95,
+        976,
+        1440
+      ],
+      "bytes": 2744962,
+      "sha256": "e9c8f03a372b0c67eb65deba139ef8d8a74e704202eb9b52a1d99a7407e639eb"
+    },
+    {
+      "id": 34,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/34-archival-scroll.png",
+      "width": 1945,
+      "height": 808,
+      "hasTransparency": true,
+      "alphaBounds": [
+        45,
+        0,
+        1903,
+        793
+      ],
+      "bytes": 2005451,
+      "sha256": "24b4121eee2dcb90002fe8c08dc46815cd9dfa84ed9a212bf5962d76d24ad01b"
+    },
+    {
+      "id": 35,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/35-small-brass-desk-lamp.png",
+      "width": 1199,
+      "height": 1312,
+      "hasTransparency": true,
+      "alphaBounds": [
+        31,
+        56,
+        1185,
+        1312
+      ],
+      "bytes": 899319,
+      "sha256": "bdf8b76431f60ee7540d7a25eee6ee95ffcd48af0d95ea841c6fb682781b4acd"
+    },
+    {
+      "id": 36,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/36-antique-frame.png",
+      "width": 1448,
+      "height": 1086,
+      "hasTransparency": true,
+      "alphaBounds": [
+        55,
+        27,
+        1428,
+        1062
+      ],
+      "bytes": 837094,
+      "sha256": "2e8ff7ae4511bee59cf87364d8ea215331a289ed6190d2a4a67b1c15e482d7da"
+    },
+    {
+      "id": 37,
+      "path": "assets/humanities-images/AE-Humanities-dark-academia-set-3/37-library-bookmark.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        65,
+        0,
+        892,
+        1512
+      ],
+      "bytes": 1477847,
+      "sha256": "cd47862a46989665b0259a093f7c316659701e5f308002fa33af851823801864"
+    },
+    {
+      "id": 38,
+      "path": "assets/humanities-images/AE-Humanities-busts-and-statues/38-classical-marble-philosopher-bust.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        37,
+        1013,
+        1474
+      ],
+      "bytes": 2217286,
+      "sha256": "306c3577e3926969880f94de46eaa9860bd6fc73b337bc47efcd5c91f7800545"
+    },
+    {
+      "id": 39,
+      "path": "assets/humanities-images/AE-Humanities-busts-and-statues/39-marble-poetess-bust.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        51,
+        19,
+        992,
+        1507
+      ],
+      "bytes": 2169840,
+      "sha256": "2ab8c4c099cdc62a382a73becb20b35d0b0483857b3807c367dcb96e30f3ef8f"
+    },
+    {
+      "id": 40,
+      "path": "assets/humanities-images/AE-Humanities-busts-and-statues/40-seated-scholar-statue.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        72,
+        55,
+        992,
+        1464
+      ],
+      "bytes": 2435594,
+      "sha256": "ec08e26f2d92ac170bf87074bb77548f79adac9277f2807471b313ccaa44b740"
+    },
+    {
+      "id": 41,
+      "path": "assets/humanities-images/AE-Humanities-busts-and-statues/41-standing-marble-muse.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        49,
+        48,
+        964,
+        1489
+      ],
+      "bytes": 1802876,
+      "sha256": "98671ebd9b7bd8a92c0c97aec8618bdfc92e77de8f406e34394f490359179073"
+    },
+    {
+      "id": 42,
+      "path": "assets/humanities-images/AE-Humanities-busts-and-statues/42-roman-bronze-bust.png",
+      "width": 1024,
+      "height": 1536,
+      "hasTransparency": true,
+      "alphaBounds": [
+        32,
+        63,
+        992,
+        1512
+      ],
+      "bytes": 2401171,
+      "sha256": "1d74fad66b56b41dcb5de6c75769dc0cfe3681f670a7a5b952024e874772640c"
+    },
+    {
+      "id": 43,
+      "path": "assets/humanities-images/AE-Humanities-art-studio/43-moody-painters-studio-background.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 469570,
+      "sha256": "35118ddb75b109f7fa8728dabd88c96b4489059a1ae576bca6d1de5958f6fd78",
+      "originalPngSha256": "f62fd15f4d9342bcadd93f8feec4d77d3fcdb4076c537eec933f16b9bca6061a"
+    },
+    {
+      "id": 44,
+      "path": "assets/humanities-images/AE-Humanities-art-studio/44-paint-stained-workbench-background.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 660910,
+      "sha256": "18457dbb9806126a734126f3ef77db68f773780dd6308ad98028d71f98dc0d8b",
+      "originalPngSha256": "bd8c73a7a44df0a66bb4fdf40ecd7ef1a82e631c5fbb940b6e4bd63b9c8fc332"
+    },
+    {
+      "id": 45,
+      "path": "assets/humanities-images/AE-Humanities-art-studio/45-messy-palette-and-brushes.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        23,
+        1522,
+        1024
+      ],
+      "bytes": 3295758,
+      "sha256": "a88e120738e06378cb1ac993c05f0daf4748957cf4caa4a828670da90e977261"
+    },
+    {
+      "id": 46,
+      "path": "assets/humanities-images/AE-Humanities-art-studio/46-brush-jar-studio-cutout.png",
+      "width": 1225,
+      "height": 1284,
+      "hasTransparency": true,
+      "alphaBounds": [
+        0,
+        9,
+        1219,
+        1271
+      ],
+      "bytes": 2037571,
+      "sha256": "bad2ba8c570a232ac553214a938b9deb6f6898f0c2d55f001d143046622bc10f"
+    },
+    {
+      "id": 47,
+      "path": "assets/humanities-images/AE-Humanities-art-studio/47-blank-sketchbook-painting-panel.png",
+      "width": 1536,
+      "height": 1024,
+      "hasTransparency": true,
+      "alphaBounds": [
+        17,
+        47,
+        1536,
+        1024
+      ],
+      "bytes": 2779467,
+      "sha256": "bfbe8c277ef3836105fe8f7fca3779839b785e9eedbb12b439e4b7620bba69c5"
+    },
+    {
+      "id": 48,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/48-library-text-left.jpg",
+      "width": 1672,
+      "height": 940,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        940
+      ],
+      "bytes": 376566,
+      "sha256": "775cec75b4b1dcdb5f8627640209f586ddae2f065e3485678e532a5a3fdddf8d",
+      "originalPngSha256": "9adab475a86bdf06394ce02bf44c7dcc521042438957723fadb5a1a3a9c2bdd6"
+    },
+    {
+      "id": 49,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/49-library-text-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 376967,
+      "sha256": "07620fb094dea77128c6920415e21b46cdb6ed3572fc14979f1a8033e4fb2834",
+      "originalPngSha256": "7bb73a9db0cb4492e2fcf4c3c02cbd6f01ebfb58b60ea9a53def115233c90265"
+    },
+    {
+      "id": 50,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/50-library-text-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 377527,
+      "sha256": "d5caa7b5df97c229e5d35ac44ba6bd7a3555deaa640939f5388345eb2e9f8dc9",
+      "originalPngSha256": "1a2400e5d4977ffd9847a51bc9725290eee17fd12e73ed554b3daae17f8a1280"
+    },
+    {
+      "id": 51,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/51-library-text-top-left.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 334800,
+      "sha256": "76d30defa1b1f1ce35416a690800a320f74978562782f4142bfe89a8f0b6db8a",
+      "originalPngSha256": "c03c372c78cfa4c255c09601c9bd1073942295928615335e9028c05a79866b36"
+    },
+    {
+      "id": 52,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/52-library-text-top-right.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 330370,
+      "sha256": "9eb8e4a666c990fe8a62fbd3d3c3a7a1801e9fd6b381c2c113e8ea5ec87febdb",
+      "originalPngSha256": "4d21a3ebeaa548e7f316c4800788b1483f96f1bbff8bf581b0370b9c2d5811e4"
+    },
+    {
+      "id": 53,
+      "path": "assets/humanities-images/AE-Humanities-library-backgrounds/53-library-text-bottom-center.jpg",
+      "width": 1672,
+      "height": 941,
+      "hasTransparency": false,
+      "alphaBounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "bytes": 456192,
+      "sha256": "05ae21987bfb123f0876356495fc0f905cde5b2af5c155c094e7f0b33f96b5b6",
+      "originalPngSha256": "a62ecace035836efc74d502bb3bf7b7cb984d20747f640443e100521c098ba14"
+    }
+  ]
+}
